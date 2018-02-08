@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\VictoryDashboardUE.uproject" />
+		<Filter Include="Source">
+			<UniqueIdentifier>{D80570FF-AB4C-4E1C-A042-0B1B2DEF40DE}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\VictoryDashboardUE.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<None Include="..\..\Source\VictoryDashboardUEEditor.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<Filter Include="Config">
+			<UniqueIdentifier>{267E557E-2A40-4B62-9327-5A7D69949EDF}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Config\DefaultEditor.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultGame.ini">
+			<Filter>Config</Filter>
+		</None >
+		<Filter Include="Source\VictoryDashboardUE">
+			<UniqueIdentifier>{1127625A-6D99-423A-8FC7-1C00E512ECE5}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\VictoryDashboardUE\VictoryDashboardUE.Build.cs">
+			<Filter>Source\VictoryDashboardUE</Filter>
+		</None >
+		<ClCompile Include="..\..\Source\VictoryDashboardUE\VictoryDashboardUE.cpp">
+			<Filter>Source\VictoryDashboardUE</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\VictoryDashboardUE\VictoryDashboardUE.h">
+			<Filter>Source\VictoryDashboardUE</Filter>
+		</ClInclude >
+	</ItemGroup>
+</Project>

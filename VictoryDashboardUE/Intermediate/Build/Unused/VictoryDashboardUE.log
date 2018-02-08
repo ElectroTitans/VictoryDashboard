@@ -1,0 +1,18 @@
+﻿D:\VisualStudio\Common7\IDE\VC\VCTargets\Microsoft.Cpp.props(31,3): warning MSB4011: "D:\VisualStudio\Common7\IDE\VC\VCTargets\Microsoft.Makefile.props" cannot be imported again. It was already imported at "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.cpp.props (31,3)". This is most likely a build authoring error. This subsequent import will be ignored. [E:\Programs\FRC\Projects\VictoryDashboard\VictoryDashboardUE\Intermediate\ProjectFiles\VictoryDashboardUE.vcxproj]
+D:\VisualStudio\Common7\IDE\VC\VCTargets\Microsoft.Cpp.props(31,3): warning MSB4011: "D:\VisualStudio\Common7\IDE\VC\VCTargets\Microsoft.Makefile.props" cannot be imported again. It was already imported at "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.cpp.props (31,3)". This is most likely a build authoring error. This subsequent import will be ignored. [E:\Programs\FRC\Projects\VictoryDashboard\VictoryDashboardUE\Intermediate\ProjectFiles\UE4.vcxproj]
+  Using 'git status' to determine working set for adaptive non-unity build.
+  Creating makefile for hot reloading VictoryDashboardUEEditor (modules to compile have changed)
+  Compiling game modules for hot reload
+  Parsing headers for VictoryDashboardUEEditor
+    Running UnrealHeaderTool "E:\Programs\FRC\Projects\VictoryDashboard\VictoryDashboardUE\VictoryDashboardUE.uproject" "E:\Programs\FRC\Projects\VictoryDashboard\VictoryDashboardUE\Intermediate\Build\Win64\VictoryDashboardUEEditor\Development\VictoryDashboardUEEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+  Reflection code generated for VictoryDashboardUEEditor in 10.4139099 seconds
+  Performing 5 actions (4 in parallel)
+  VictoryDashboardUE.init.gen.cpp
+  VictoryConnect.cpp
+  VictoryConnect.gen.cpp
+  [4/5] Link UE4Editor-VictoryDashboardUE-1977.dll
+  [5/5] Link UE4Editor-VictoryDashboardUE-1977.lib
+     Creating library E:\Programs\FRC\Projects\VictoryDashboard\VictoryDashboardUE\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-VictoryDashboardUE-1977.lib and object E:\Programs\FRC\Projects\VictoryDashboard\VictoryDashboardUE\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-VictoryDashboardUE-1977.exp
+     Creating library E:\Programs\FRC\Projects\VictoryDashboard\VictoryDashboardUE\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-VictoryDashboardUE-1977.suppressed.lib and object E:\Programs\FRC\Projects\VictoryDashboard\VictoryDashboardUE\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-VictoryDashboardUE-1977.suppressed.exp
+  Deploying VictoryDashboardUEEditor Win64 Development...
+  Total build time: 31.64 seconds (Local executor: 14.56 seconds)

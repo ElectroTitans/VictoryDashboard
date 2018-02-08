@@ -1,0 +1,1581 @@
+﻿Log file open, 02/07/18 22:46:36
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: VictoryDashboardUE
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-1424612791) SRandInit(-1424612791).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.176695
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin SocketClient
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogModuleManager: Display: Found up-to-date module file E:/Programs/FRC/Projects/VictoryDashboard/VictoryDashboardUE/Binaries/Win64/UE4Editor-VictoryDashboardUE-7983.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Marketplace/SimpleUDPTCPSocketClient/Binaries/Win64/UE4Editor-SocketClient.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: D:/EpicGames/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.02.08-06.46.38:610][  0]LogInit: Selected Device Profile: [Windows]
+[2018.02.08-06.46.38:610][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.02.08-06.46.38:627][  0]LogInit: Computer: GLADOS
+[2018.02.08-06.46.38:627][  0]LogInit: User: Victo
+[2018.02.08-06.46.38:627][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.02.08-06.46.38:627][  0]LogInit: High frequency timer resolution =3.417990 MHz
+[2018.02.08-06.46.38:628][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.02.08-06.46.38:628][  0]LogMemory: Platform Memory Stats for Windows
+[2018.02.08-06.46.38:628][  0]LogMemory: Process Physical Memory: 273.29 MB used, 273.29 MB peak
+[2018.02.08-06.46.38:628][  0]LogMemory: Process Virtual Memory: 272.21 MB used, 272.21 MB peak
+[2018.02.08-06.46.38:628][  0]LogMemory: Physical Memory: 8089.29 MB used,  8180.27 MB free, 16269.56 MB total
+[2018.02.08-06.46.38:628][  0]LogMemory: Virtual Memory: 646.39 MB used,  8180.27 MB free, 134217728.00 MB total
+[2018.02.08-06.46.38:777][  0]LogInit: Using OS detected language (en-US).
+[2018.02.08-06.46.38:777][  0]LogInit: Using OS detected locale (en-US).
+[2018.02.08-06.46.38:781][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.02.08-06.46.39:192][  0]LogInit: Setting process to per monitor DPI aware
+[2018.02.08-06.46.39:455][  0]LogD3D11RHI: D3D11 adapters:
+[2018.02.08-06.46.40:011][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
+[2018.02.08-06.46.40:011][  0]LogD3D11RHI:       8144/0/8134 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.02.08-06.46.40:015][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 4000' (Feature Level 11_0)
+[2018.02.08-06.46.40:015][  0]LogD3D11RHI:       32/0/1760 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.02.08-06.46.40:016][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.02.08-06.46.40:016][  0]LogD3D11RHI:       0/0/8134 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.02.08-06.46.40:016][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.02.08-06.46.40:025][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.02.08-06.46.40:025][  0]LogD3D11RHI:     GPU DeviceId: 0x1b80 (for the marketing name, search the web for "GPU Device Id")
+[2018.02.08-06.46.40:025][  0]LogWindows: EnumDisplayDevices:
+[2018.02.08-06.46.40:025][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
+[2018.02.08-06.46.40:026][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:0 D:1)
+[2018.02.08-06.46.40:026][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.02.08-06.46.40:026][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.02.08-06.46.40:026][  0]LogWindows:    4. 'Intel(R) HD Graphics 4000' (P:0 D:0)
+[2018.02.08-06.46.40:026][  0]LogWindows:    5. 'Intel(R) HD Graphics 4000' (P:0 D:0)
+[2018.02.08-06.46.40:026][  0]LogWindows:    6. 'Intel(R) HD Graphics 4000' (P:0 D:0)
+[2018.02.08-06.46.40:026][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2018.02.08-06.46.40:026][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
+[2018.02.08-06.46.40:026][  0]LogD3D11RHI:   Driver Version: 376.51 (internal:21.21.13.7651, unified:376.51)
+[2018.02.08-06.46.40:026][  0]LogD3D11RHI:      Driver Date: 12-25-2016
+[2018.02.08-06.46.40:026][  0]LogRHI: Texture pool is 5701 MB (70% of 8144 MB)
+[2018.02.08-06.46.40:551][  0]LogD3D11RHI: Async texture creation enabled
+[2018.02.08-06.46.40:635][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.02.08-06.46.40:733][  0]LogShaderCompilers: Guid format shader working directory is -15 characters bigger than the processId version (E:/Programs/FRC/Projects/VictoryDashboard/VictoryDashboardUE/Intermediate/Shaders/WorkingDirectory/23780/).
+[2018.02.08-06.46.40:733][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Victo/AppData/Local/Temp/UnrealShaderWorkingDir/E0BCDA884378D8B63F04D6B75A097873/'.
+[2018.02.08-06.46.40:733][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.02.08-06.46.41:816][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.02.08-06.46.41:869][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.02.08-06.46.41:921][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.02.08-06.46.41:981][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.02.08-06.46.42:041][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.02.08-06.46.42:097][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.02.08-06.46.42:150][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.02.08-06.46.42:210][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.02.08-06.46.42:260][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.02.08-06.46.42:312][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.02.08-06.46.42:361][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.02.08-06.46.42:414][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.02.08-06.46.42:465][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.02.08-06.46.42:519][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.02.08-06.46.42:629][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.02.08-06.46.42:629][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.02.08-06.46.42:680][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.02.08-06.46.42:718][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.02.08-06.46.42:816][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.02.08-06.46.42:848][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.02.08-06.46.42:904][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.02.08-06.46.42:953][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.02.08-06.46.43:012][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.02.08-06.46.43:062][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.02.08-06.46.43:062][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.02.08-06.46.43:535][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.02.08-06.46.43:629][  0]LogDerivedDataCache: Loaded boot cache 0.09s 78MB C:/Users/Victo/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.02.08-06.46.43:629][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Victo/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.02.08-06.46.43:629][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file E:/Programs/FRC/Projects/VictoryDashboard/VictoryDashboardUE/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.02.08-06.46.43:629][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.02.08-06.46.43:629][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file E:/Programs/FRC/Projects/VictoryDashboard/VictoryDashboardUE/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.02.08-06.46.43:629][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.02.08-06.46.43:647][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.02.08-06.46.43:659][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Victo/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.02.08-06.46.43:672][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.02.08-06.46.43:672][  0]LogSlate: Using Freetype 2.6.0
+[2018.02.08-06.46.43:673][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.02.08-06.46.43:673][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.02.08-06.46.44:129][  0]LogInit: Selected Device Profile: [Windows]
+[2018.02.08-06.46.44:401][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.02.08-06.46.44:441][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.02.08-06.46.44:442][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.02.08-06.46.44:442][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.02.08-06.46.44:442][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.02.08-06.46.44:442][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.02.08-06.46.44:560][  0]LogNetVersion: VictoryDashboardUE , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 3474883338)
+[2018.02.08-06.46.44:732][  0]LogAssetRegistry: FAssetRegistry took 0.0263 seconds to start up
+[2018.02.08-06.46.45:335][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.080143 seconds
+[2018.02.08-06.46.45:341][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2018.02.08-06.46.45:341][  0]LogUObjectAllocator: 7363704 out of 0 bytes used by permanent object pool.
+[2018.02.08-06.46.45:341][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.02.08-06.46.45:397][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.02.08-06.46.48:323][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.02.08-06.46.48:369][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.02.08-06.46.49:131][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.02.08-06.46.49:572][  0]SourceControl: Source control is disabled
+[2018.02.08-06.46.49:572][  0]SourceControl: Source control is disabled
+[2018.02.08-06.46.49:629][  0]SourceControl: Source control is disabled
+[2018.02.08-06.46.49:684][  0]SourceControl: Source control is disabled
+[2018.02.08-06.46.50:560][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.02.08-06.46.50:852][  0]LogOcInput: OculusInput pre-init called
+[2018.02.08-06.46.51:137][  0]LogEngine: Initializing Engine...
+[2018.02.08-06.46.51:185][  0]LogHMD: Failed to initialize OpenVR with code 126
+[2018.02.08-06.46.51:436][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.02.08-06.46.51:436][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.02.08-06.46.51:605][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.02.08-06.46.51:625][  0]LogInit: XAudio2 using 'Speakers (Logitech G933 Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.02.08-06.46.51:664][  0]LogInit: FAudioDevice initialized.
+[2018.02.08-06.46.51:791][  0]LogDerivedDataCache: Saved boot cache 0.13s 78MB C:/Users/Victo/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.02.08-06.46.51:808][  0]LogInit: Texture streaming: Enabled
+[2018.02.08-06.46.51:922][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.02.08-06.46.52:064][  0]LogInit: Transaction tracking system initialized
+[2018.02.08-06.46.52:407][  0]BlueprintLog: New page: Editor Load
+[2018.02.08-06.46.53:420][  0]LocalizationService: Localization service is disabled
+[2018.02.08-06.46.54:212][  0]LogConsoleResponse: Display: 
+[2018.02.08-06.46.54:418][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.02.08-06.46.54:418][  0]LogCook: Display: Mobile HDR setting 1
+[2018.02.08-06.46.54:418][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.02.08-06.46.54:426][  0]LogFileCache: Scanning file cache for directory 'E:/Programs/FRC/Projects/VictoryDashboard/VictoryDashboardUE/Content/' took 0.01s
+[2018.02.08-06.46.55:743][  0]SourceControl: Source control is disabled
+[2018.02.08-06.46.55:743][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.02.08-06.46.55:743][  0]LightingResults: New page: Lighting Build
+[2018.02.08-06.46.55:789][  0]MapCheck: New page: Map Check
+[2018.02.08-06.46.55:790][  0]LightingResults: New page: Lighting Build
+[2018.02.08-06.46.56:086][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2018.02.08-06.46.56:094][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.02.08-06.46.56:108][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.02.08-06.46.56:157][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 48.615ms to complete.
+[2018.02.08-06.46.56:157][  0]LogFileHelpers: Loading map 'Template_Default' took 0.413
+[2018.02.08-06.46.56:325][  0]LogCollectionManager: Loaded 0 collections in 0.001581 seconds
+[2018.02.08-06.46.56:407][  0]LogFileCache: Scanning file cache for directory 'E:/Programs/FRC/Projects/VictoryDashboard/VictoryDashboardUE/Saved/Collections/' took 0.01s
+[2018.02.08-06.46.56:407][  0]LogFileCache: Scanning file cache for directory 'E:/Programs/FRC/Projects/VictoryDashboard/VictoryDashboardUE/Content/Developers/Victo/Collections/' took 0.01s
+[2018.02.08-06.46.56:407][  0]LogFileCache: Scanning file cache for directory 'E:/Programs/FRC/Projects/VictoryDashboard/VictoryDashboardUE/Content/Collections/' took 0.01s
+[2018.02.08-06.46.56:407][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.02.08-06.46.56:418][  0]LogContentBrowser: Native class hierarchy populated in 0.0109 seconds. Added 2366 classes and 524 folders.
+[2018.02.08-06.46.56:482][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2018.02.08-06.46.56:521][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2018.02.08-06.46.56:568][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2018.02.08-06.46.56:676][  0]LogDirectoryWatcher: Warning: Failed to begin reading directory changes for E:/Programs/FRC/Projects/VictoryDashboard/VictoryDashboardUE/Plugins/. Error: The system cannot find the file specified. (0x00000002)
+[2018.02.08-06.46.56:691][  0]LogSlate: Took 0.000315 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.02.08-06.46.56:694][  0]LogSlate: Took 0.000240 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.02.08-06.46.56:703][  0]LogSlate: Took 0.000306 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.02.08-06.46.56:871][  0]LogRenderer: Reallocating scene render targets to support 1400x576 Format 10 NumSamples 1 (Frame:1).
+[2018.02.08-06.46.56:938][  0]LogSlate: Took 0.000203 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.02.08-06.46.57:164][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2018.02.08-06.46.57:164][  0]LogLoad: (Engine Initialization) Total time: 21.77 seconds
+[2018.02.08-06.46.57:164][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.02.08-06.46.57:164][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.02.08-06.46.57:528][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.02.08-06.46.57:848][  1]LogAssetRegistry: Asset discovery search completed in 13.1376 seconds
+[2018.02.08-06.46.57:850][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.02.08-06.46.57:850][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000093 seconds (updated 0 objects)
+[2018.02.08-06.47.09:515][133]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/' was aborted.
+[2018.02.08-06.47.18:262][806]LogSlate: Took 0.000181 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.02.08-06.47.55:869][369]LogVSAccessor: Warning: Couldn't goto line number '0' in 'E:/Programs/FRC/Projects/VictoryDashboard/VictoryDashboardUE/Source/VictoryDashboardUE/VictoryConnect.h'
+[2018.02.08-06.47.55:906][369]LogVSAccessor: Warning: Couldn't goto line number '0' in 'E:/Programs/FRC/Projects/VictoryDashboard/VictoryDashboardUE/Source/VictoryDashboardUE/VictoryConnect.cpp'
+[2018.02.08-06.48.42:528][606]LogMetaData: Removing '/Game/Blueprints/VictoryConnectClient.VictoryConnectClient:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/VictoryConenct.PackageMetaData'
+[2018.02.08-06.48.42:528][606]LogMetaData: Removing '/Game/Blueprints/VictoryConnectClient.SKEL_VictoryConnectClient_C' ref from Metadata '/Game/Blueprints/VictoryConenct.PackageMetaData'
+[2018.02.08-06.48.42:528][606]LogMetaData: Removing '/Game/Blueprints/VictoryConnectClient.VictoryConnectClient_C' ref from Metadata '/Game/Blueprints/VictoryConenct.PackageMetaData'
+[2018.02.08-06.48.42:528][606]LogMetaData: Removing '/Game/Blueprints/VictoryConnectClient.VictoryConnectClient:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/VictoryConenct.PackageMetaData'
+[2018.02.08-06.48.42:528][606]LogMetaData: Removing '/Game/Blueprints/VictoryConnectClient.VictoryConnectClient:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/VictoryConenct.PackageMetaData'
+[2018.02.08-06.48.42:528][606]LogMetaData: Removing '/Game/Blueprints/VictoryConnectClient.VictoryConnectClient:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Blueprints/VictoryConenct.PackageMetaData'
+[2018.02.08-06.48.42:549][606]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/VictoryConnectClient" FILE="E:/Programs/FRC/Projects/VictoryDashboard/VictoryDashboardUE/Content/Blueprints/VictoryConnectClient.uasset" SILENT=true
+[2018.02.08-06.48.42:568][606]LogSavePackage: Save=14.28ms
+[2018.02.08-06.48.42:568][606]LogSavePackage: Moving 'E:/Programs/FRC/Projects/VictoryDashboard/VictoryDashboardUE/Saved/VictoryConnectClient94116CA542E00DBBC3AC5092617E4DB1.tmp' to 'E:/Programs/FRC/Projects/VictoryDashboard/VictoryDashboardUE/Content/Blueprints/VictoryConnectClient.uasset'
+[2018.02.08-06.48.42:575][606]LogSavePackage: Display: Finished SavePackage E:/Programs/FRC/Projects/VictoryDashboard/VictoryDashboardUE/Content/Blueprints/VictoryConnectClient.uasset
+[2018.02.08-06.48.44:041][707]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0011 seconds. Added 116 classes and 0 folders.
+[2018.02.08-06.48.44:840][707]LogMaterial: Missing cached shader map for material GridMaterial, compiling. 
+[2018.02.08-06.48.44:901][707]LogSlate: Took 0.000167 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.02.08-06.48.45:270][707]LogMaterial: Missing cached shader map for material PersonaFloorMat, compiling. 
+[2018.02.08-06.48.45:449][707]LogRenderer: Reallocating scene render targets to support 1400x712 Format 10 NumSamples 1 (Frame:1).
+[2018.02.08-06.49.05:066][990]LogSlate: Took 0.000198 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.02.08-06.49.21:083][114]LogSlate: Took 0.000207 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.02.08-06.49.26:554][447]LogSelectionDetails: Warning: NavigateToFunctionSource:  Found symbols for [USocketClientBPLibrary::connectSocketClient] - File [d:\build\++portal+dev-marketplace+full\sync\localbuilds\plugintemp\hostproject\plugins\socketclient\source\socketclient\private\socketclientbplibrary.cpp], Line [57], Column [0]
+[2018.02.08-06.49.32:667][521]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.02.08-06.49.36:176][522]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2018.02.08-06.49.36:184][522]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.49.36:185][522]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.49.36:185][522]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.49.36:185][522]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.49.36:185][522]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.49.36:185][522]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.49.36:185][522]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.49.36:185][522]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.49.36:185][522]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.49.36:186][522]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.49.36:186][522]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.49.36:186][522]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.49.36:186][522]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.49.36:186][522]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.49.36:186][522]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.49.36:186][522]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.49.36:186][522]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.49.36:186][522]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.49.36:186][522]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.49.36:187][522]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.49.36:187][522]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.49.36:187][522]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.49.36:187][522]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.49.36:187][522]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.49.36:187][522]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.49.36:187][522]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.49.36:187][522]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.49.36:187][522]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.49.36:188][522]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.49.36:188][522]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.49.36:188][522]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.49.36:188][522]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.49.36:188][522]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.49.36:188][522]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.49.36:188][522]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.49.36:188][522]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.49.36:189][522]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.49.36:189][522]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.49.36:189][522]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.49.36:189][522]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.49.36:189][522]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.49.36:189][522]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.49.36:189][522]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.49.36:189][522]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.49.36:190][522]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.49.36:190][522]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.49.36:190][522]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.49.36:190][522]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.49.36:190][522]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.49.36:190][522]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.49.36:190][522]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.49.36:191][522]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.49.36:191][522]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.49.36:191][522]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.49.36:191][522]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.49.36:191][522]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.49.36:191][522]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.49.36:191][522]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.49.36:192][522]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.49.36:192][522]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.49.36:192][522]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.49.36:192][522]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.49.36:192][522]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.49.36:192][522]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.49.36:193][522]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.49.36:193][522]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.49.36:193][522]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.49.36:193][522]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.49.36:193][522]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.49.36:193][522]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.49.36:193][522]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.49.36:194][522]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.49.36:194][522]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.49.36:194][522]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.49.36:194][522]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.49.36:194][522]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.49.36:194][522]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.49.36:195][522]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.49.36:195][522]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.49.36:195][522]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.49.36:195][522]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.49.36:195][522]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.49.36:195][522]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.49.36:196][522]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.49.36:196][522]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.49.36:196][522]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.49.36:196][522]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.49.36:196][522]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.49.36:196][522]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.49.36:196][522]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.49.36:197][522]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.49.36:197][522]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.49.36:197][522]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.49.36:197][522]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.49.36:197][522]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.49.36:197][522]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.49.36:198][522]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.49.36:198][522]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.49.36:198][522]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.49.36:198][522]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.49.36:198][522]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.49.36:198][522]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.49.36:199][522]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.49.36:199][522]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.49.36:199][522]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.49.36:199][522]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.49.36:199][522]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.49.36:199][522]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.49.36:199][522]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.49.36:200][522]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.49.36:200][522]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.49.36:200][522]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.49.36:200][522]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.49.36:204][522]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.49.36:206][522]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.49.36:210][522]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.49.36:231][522]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.49.36:233][522]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.49.36:237][522]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.49.36:243][522]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.49.36:243][522]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.49.36:243][522]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.49.36:244][522]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.49.36:251][522]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.49.36:251][522]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.49.36:261][522]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.49.36:261][522]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.49.36:294][522]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.49.36:309][522]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.49.36:309][522]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.49.36:310][522]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.49.36:316][522]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.49.36:316][522]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.49.36:317][522]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.49.36:318][522]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.49.36:318][522]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.49.36:318][522]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.49.36:319][522]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.49.36:336][522]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.49.36:375][522]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.49.36:384][522]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.49.36:384][522]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.49.36:384][522]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.49.36:384][522]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.49.36:384][522]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.50.03:532][800]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/VictoryConnectLib" FILE="E:/Programs/FRC/Projects/VictoryDashboard/VictoryDashboardUE/Content/Blueprints/VictoryConnectLib.uasset" SILENT=true
+[2018.02.08-06.50.03:546][800]LogSavePackage: Save=9.87ms
+[2018.02.08-06.50.03:546][800]LogSavePackage: Moving 'E:/Programs/FRC/Projects/VictoryDashboard/VictoryDashboardUE/Saved/VictoryConnectLib8875CF8346BD2DB973DD86A3CDA85647.tmp' to 'E:/Programs/FRC/Projects/VictoryDashboard/VictoryDashboardUE/Content/Blueprints/VictoryConnectLib.uasset'
+[2018.02.08-06.50.03:551][800]LogSavePackage: Display: Finished SavePackage E:/Programs/FRC/Projects/VictoryDashboard/VictoryDashboardUE/Content/Blueprints/VictoryConnectLib.uasset
+[2018.02.08-06.51.23:655][  6]BlueprintLog: New page: Compile VictoryConnectClient
+[2018.02.08-06.51.23:660][  6]LogBlueprint: Error: [Compiler VictoryConnectClient] This blueprint (self) is not a SocketClientBPLibrary, therefore ' Target ' must have a connection.
+[2018.02.08-06.51.23:776][  6]LogBlueprint: Warning: [Compiler VictoryConnectClient] [0288.38] Compile of VictoryConnectClient failed. 1 Fatal Issue(s) 0 Warning(s) [in 121 ms] (/Game/Blueprints/VictoryConnectClient.VictoryConnectClient)
+[2018.02.08-06.52.06:268][758]LogSelectionDetails: Warning: NavigateToFunctionSource:  Found symbols for [USocketClientBPLibrary::connectSocketClient] - File [d:\build\++portal+dev-marketplace+full\sync\localbuilds\plugintemp\hostproject\plugins\socketclient\source\socketclient\private\socketclientbplibrary.cpp], Line [57], Column [0]
+[2018.02.08-06.52.06:291][758]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2018.02.08-06.52.06:297][758]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.52.06:297][758]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.52.06:298][758]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.52.06:298][758]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.52.06:298][758]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.52.06:298][758]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.52.06:298][758]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.52.06:298][758]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.52.06:298][758]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.52.06:298][758]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.52.06:298][758]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.52.06:298][758]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.52.06:299][758]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.52.06:299][758]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.52.06:299][758]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.52.06:299][758]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.52.06:299][758]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.52.06:299][758]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.52.06:299][758]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.52.06:299][758]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.52.06:299][758]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.52.06:299][758]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.52.06:300][758]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.52.06:300][758]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.52.06:300][758]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.52.06:300][758]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.52.06:300][758]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.52.06:300][758]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.52.06:300][758]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.52.06:300][758]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.52.06:300][758]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.52.06:300][758]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.52.06:301][758]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.52.06:301][758]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.52.06:301][758]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.52.06:301][758]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.52.06:301][758]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.52.06:301][758]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.52.06:301][758]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.52.06:301][758]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.52.06:301][758]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.52.06:301][758]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.52.06:302][758]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.52.06:302][758]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.52.06:302][758]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.52.06:302][758]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.52.06:302][758]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.52.06:302][758]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.52.06:302][758]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.52.06:302][758]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.52.06:302][758]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.52.06:302][758]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.52.06:303][758]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.52.06:303][758]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.52.06:303][758]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.52.06:303][758]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.52.06:303][758]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.52.06:303][758]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.52.06:303][758]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.52.06:303][758]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.52.06:303][758]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.52.06:304][758]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.52.06:304][758]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.52.06:304][758]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.52.06:304][758]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.52.06:304][758]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.52.06:304][758]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.52.06:304][758]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.52.06:304][758]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.52.06:304][758]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.52.06:304][758]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.52.06:305][758]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.52.06:305][758]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.52.06:305][758]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.52.06:305][758]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.52.06:305][758]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.52.06:305][758]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.52.06:305][758]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.52.06:305][758]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.52.06:305][758]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.52.06:306][758]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.52.06:306][758]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.52.06:306][758]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.52.06:306][758]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.52.06:306][758]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.52.06:306][758]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.52.06:306][758]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.52.06:306][758]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.52.06:306][758]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.52.06:306][758]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.52.06:307][758]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.52.06:307][758]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.52.06:307][758]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.52.06:307][758]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.52.06:307][758]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.52.06:307][758]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.52.06:307][758]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.52.06:307][758]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.52.06:307][758]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.52.06:308][758]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.52.06:308][758]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.52.06:308][758]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.52.06:308][758]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.52.06:308][758]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.52.06:308][758]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.52.06:308][758]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.52.06:308][758]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.52.06:308][758]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.52.06:308][758]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.52.06:309][758]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.52.06:309][758]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.52.06:309][758]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.52.06:309][758]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.52.06:312][758]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.52.06:313][758]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.52.06:317][758]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.52.06:340][758]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.52.06:341][758]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.52.06:345][758]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.52.06:349][758]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.52.06:350][758]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.52.06:350][758]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.52.06:350][758]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.52.06:355][758]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.52.06:356][758]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.52.06:363][758]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.52.06:363][758]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.52.06:383][758]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.52.06:394][758]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.52.06:395][758]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.52.06:395][758]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.52.06:400][758]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.52.06:400][758]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.52.06:401][758]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.52.06:401][758]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.52.06:401][758]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.52.06:401][758]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.52.06:402][758]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.52.06:414][758]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.52.06:449][758]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.52.06:449][758]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.52.06:450][758]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-06.53.01:849][879]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/VictoryConnectClient" FILE="E:/Programs/FRC/Projects/VictoryDashboard/VictoryDashboardUE/Content/Blueprints/VictoryConnectClient.uasset" SILENT=true
+[2018.02.08-06.53.01:878][879]LogSavePackage: Save=26.60ms
+[2018.02.08-06.53.01:878][879]LogSavePackage: Moving 'E:/Programs/FRC/Projects/VictoryDashboard/VictoryDashboardUE/Saved/VictoryConnectClientC55D6E634B8B2EBAC04BA682FC75ED18.tmp' to 'E:/Programs/FRC/Projects/VictoryDashboard/VictoryDashboardUE/Content/Blueprints/VictoryConnectClient.uasset'
+[2018.02.08-06.53.01:882][879]LogSavePackage: Display: Finished SavePackage E:/Programs/FRC/Projects/VictoryDashboard/VictoryDashboardUE/Content/Blueprints/VictoryConnectClient.uasset
+[2018.02.08-06.53.03:666][ 25]BlueprintLog: New page: Compile VictoryConnectClient
+[2018.02.08-06.53.09:127][434]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.08-06.53.09:172][434]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.08-06.53.09:173][434]PIE: New page: PIE session: Untitled_1 (Feb 7, 2018, 2:53:09 PM)
+[2018.02.08-06.53.09:173][434]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2018.02.08-06.53.09:179][434]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006057s)
+[2018.02.08-06.53.09:180][434]LogAIModule: Creating AISystem for world Untitled_1
+[2018.02.08-06.53.09:180][434]LogPlayLevel: PIE: World Init took: (0.000877s)
+[2018.02.08-06.53.09:180][434]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.007299s)
+[2018.02.08-06.53.09:205][434]LogInit: XAudio2 using 'Speakers (Logitech G933 Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.02.08-06.53.09:228][434]LogInit: FAudioDevice initialized.
+[2018.02.08-06.53.09:274][434]LogLoad: Game class is 'GameModeBase'
+[2018.02.08-06.53.09:276][434]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2018.02.07-22.53.09
+[2018.02.08-06.53.09:276][434]LogWorld: Bringing up level for play took: 0.000790
+[2018.02.08-06.53.09:320][434]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0006 seconds. Added 11 classes and 0 folders.
+[2018.02.08-06.53.09:321][434]LogTemp: Warning: Tread:127.0.0.1:9000
+[2018.02.08-06.53.09:321][434]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 0.516
+[2018.02.08-06.53.09:325][434]LogBlueprintUserMessages: [VictoryConnectClient_24] Connection successful:127.0.0.1:9000
+[2018.02.08-06.53.09:384][435]LogBlueprintUserMessages: [VictoryConnectClient_24] 1 0 welcome no_data
+[2018.02.08-06.53.54:469][595]LogSlate: Took 0.041856 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2018.02.08-06.54.26:937][517]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/VictoryConnectClient" FILE="E:/Programs/FRC/Projects/VictoryDashboard/VictoryDashboardUE/Content/Blueprints/VictoryConnectClient.uasset" SILENT=true
+[2018.02.08-06.54.26:974][517]LogSavePackage: Save=28.50ms
+[2018.02.08-06.54.26:974][517]LogSavePackage: Moving 'E:/Programs/FRC/Projects/VictoryDashboard/VictoryDashboardUE/Saved/VictoryConnectClient8156E10647B867294ACE52BADC9BFE40.tmp' to 'E:/Programs/FRC/Projects/VictoryDashboard/VictoryDashboardUE/Content/Blueprints/VictoryConnectClient.uasset'
+[2018.02.08-06.54.26:978][517]LogSavePackage: Display: Finished SavePackage E:/Programs/FRC/Projects/VictoryDashboard/VictoryDashboardUE/Content/Blueprints/VictoryConnectClient.uasset
+[2018.02.08-06.54.27:593][563]BlueprintLog: New page: Compile VictoryConnectClient
+[2018.02.08-06.54.28:287][579]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/VictoryConnectClient" FILE="E:/Programs/FRC/Projects/VictoryDashboard/VictoryDashboardUE/Content/Blueprints/VictoryConnectClient.uasset" SILENT=true
+[2018.02.08-06.54.28:320][579]LogSavePackage: Save=30.07ms
+[2018.02.08-06.54.28:320][579]LogSavePackage: Moving 'E:/Programs/FRC/Projects/VictoryDashboard/VictoryDashboardUE/Saved/VictoryConnectClientBB0A9CFE45E560113AB4789F617C4441.tmp' to 'E:/Programs/FRC/Projects/VictoryDashboard/VictoryDashboardUE/Content/Blueprints/VictoryConnectClient.uasset'
+[2018.02.08-06.54.28:322][579]LogSavePackage: Display: Finished SavePackage E:/Programs/FRC/Projects/VictoryDashboard/VictoryDashboardUE/Content/Blueprints/VictoryConnectClient.uasset
+[2018.02.08-06.54.30:159][702]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.08-06.54.30:187][702]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.08-06.54.30:187][702]PIE: New page: PIE session: Untitled_1 (Feb 7, 2018, 2:54:30 PM)
+[2018.02.08-06.54.30:187][702]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2018.02.08-06.54.30:192][702]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005314s)
+[2018.02.08-06.54.30:193][702]LogAIModule: Creating AISystem for world Untitled_1
+[2018.02.08-06.54.30:193][702]LogPlayLevel: PIE: World Init took: (0.000666s)
+[2018.02.08-06.54.30:193][702]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.006285s)
+[2018.02.08-06.54.30:216][702]LogInit: XAudio2 using 'Speakers (Logitech G933 Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.02.08-06.54.30:237][702]LogInit: FAudioDevice initialized.
+[2018.02.08-06.54.30:272][702]LogLoad: Game class is 'GameModeBase'
+[2018.02.08-06.54.30:273][702]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2018.02.07-22.54.30
+[2018.02.08-06.54.30:273][702]LogWorld: Bringing up level for play took: 0.000676
+[2018.02.08-06.54.30:275][702]LogTemp: Warning: Tread:127.0.0.1:9000
+[2018.02.08-06.54.30:275][702]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 -0.531
+[2018.02.08-06.54.30:284][702]LogTemp: Display: Close Socket
+[2018.02.08-06.54.30:317][703]LogBlueprintUserMessages: [VictoryConnectClient_24] Connection close:127.0.0.1:9000
+[2018.02.08-06.54.30:476][722]LogBlueprintUserMessages: [VictoryConnectClient_24] Connection successful:127.0.0.1:9000
+[2018.02.08-06.54.30:479][722]LogBlueprintUserMessages: [VictoryConnectClient_24] 2 0 welcome no_data
+[2018.02.08-06.54.30:991][783]LogBlueprintUserMessages: [VictoryConnectClient_24] 2 1 heartbeat no_data
+[2018.02.08-06.54.31:496][843]LogBlueprintUserMessages: [VictoryConnectClient_24] 2 1 heartbeat no_data
+[2018.02.08-06.54.31:997][903]LogBlueprintUserMessages: [VictoryConnectClient_24] 2 1 heartbeat no_data
+[2018.02.08-06.54.32:498][963]LogBlueprintUserMessages: [VictoryConnectClient_24] 2 1 heartbeat no_data
+[2018.02.08-06.54.36:075][105]LogTemp: Display: Close Socket
+[2018.02.08-06.55.22:880][512]BlueprintLog: New page: Compile VictoryConnectClient
+[2018.02.08-06.55.24:294][608]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.08-06.55.24:319][608]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.08-06.55.24:319][608]PIE: New page: PIE session: Untitled_1 (Feb 7, 2018, 2:55:24 PM)
+[2018.02.08-06.55.24:319][608]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2018.02.08-06.55.24:323][608]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004588s)
+[2018.02.08-06.55.24:324][608]LogAIModule: Creating AISystem for world Untitled_1
+[2018.02.08-06.55.24:324][608]LogPlayLevel: PIE: World Init took: (0.000788s)
+[2018.02.08-06.55.24:325][608]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.005757s)
+[2018.02.08-06.55.24:351][608]LogInit: XAudio2 using 'Speakers (Logitech G933 Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.02.08-06.55.24:376][608]LogInit: FAudioDevice initialized.
+[2018.02.08-06.55.24:410][608]LogLoad: Game class is 'GameModeBase'
+[2018.02.08-06.55.24:411][608]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2018.02.07-22.55.24
+[2018.02.08-06.55.24:411][608]LogWorld: Bringing up level for play took: 0.000810
+[2018.02.08-06.55.24:413][608]LogTemp: Warning: Tread:127.0.0.1:9000
+[2018.02.08-06.55.24:413][608]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 -0.393
+[2018.02.08-06.55.24:416][608]LogBlueprintUserMessages: [VictoryConnectClient_24] Connection successful:127.0.0.1:9000
+[2018.02.08-06.55.24:416][608]LogBlueprintUserMessages: [VictoryConnectClient_24] 3
+[2018.02.08-06.55.24:416][608]LogBlueprintUserMessages: [VictoryConnectClient_24] 0 welcome no_data
+[2018.02.08-06.55.24:927][664]LogBlueprintUserMessages: [VictoryConnectClient_24] 3
+[2018.02.08-06.55.24:927][664]LogBlueprintUserMessages: [VictoryConnectClient_24] 1 heartbeat no_data
+[2018.02.08-06.55.25:429][724]LogBlueprintUserMessages: [VictoryConnectClient_24] 3
+[2018.02.08-06.55.25:429][724]LogBlueprintUserMessages: [VictoryConnectClient_24] 1 heartbeat no_data
+[2018.02.08-06.55.25:931][784]LogBlueprintUserMessages: [VictoryConnectClient_24] 3
+[2018.02.08-06.55.25:931][784]LogBlueprintUserMessages: [VictoryConnectClient_24] 1 heartbeat no_data
+[2018.02.08-06.55.26:439][845]LogBlueprintUserMessages: [VictoryConnectClient_24] 3
+[2018.02.08-06.55.26:439][845]LogBlueprintUserMessages: [VictoryConnectClient_24] 1 heartbeat no_data
+[2018.02.08-06.55.26:941][905]LogBlueprintUserMessages: [VictoryConnectClient_24] 3
+[2018.02.08-06.55.26:941][905]LogBlueprintUserMessages: [VictoryConnectClient_24] 1 heartbeat no_data
+[2018.02.08-06.55.29:957][149]LogTemp: Display: Close Socket
+[2018.02.08-06.55.37:400][461]BlueprintLog: New page: Compile VictoryConnectClient
+[2018.02.08-06.55.38:768][560]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.08-06.55.38:790][560]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.08-06.55.38:790][560]PIE: New page: PIE session: Untitled_1 (Feb 7, 2018, 2:55:38 PM)
+[2018.02.08-06.55.38:790][560]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2018.02.08-06.55.38:795][560]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004501s)
+[2018.02.08-06.55.38:796][560]LogAIModule: Creating AISystem for world Untitled_1
+[2018.02.08-06.55.38:796][560]LogPlayLevel: PIE: World Init took: (0.000708s)
+[2018.02.08-06.55.38:796][560]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.005591s)
+[2018.02.08-06.55.38:820][560]LogInit: XAudio2 using 'Speakers (Logitech G933 Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.02.08-06.55.38:845][560]LogInit: FAudioDevice initialized.
+[2018.02.08-06.55.38:879][560]LogLoad: Game class is 'GameModeBase'
+[2018.02.08-06.55.38:880][560]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2018.02.07-22.55.38
+[2018.02.08-06.55.38:880][560]LogWorld: Bringing up level for play took: 0.000802
+[2018.02.08-06.55.38:882][560]LogTemp: Warning: Tread:127.0.0.1:9000
+[2018.02.08-06.55.38:882][560]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 0.076
+[2018.02.08-06.55.38:885][560]LogBlueprintUserMessages: [VictoryConnectClient_24] Connection successful:127.0.0.1:9000
+[2018.02.08-06.55.38:886][560]LogBlueprintUserMessages: [VictoryConnectClient_24] 4
+[2018.02.08-06.55.38:886][560]LogBlueprintUserMessages: [VictoryConnectClient_24] 0 welcome no_data
+[2018.02.08-06.55.39:398][616]LogBlueprintUserMessages: [VictoryConnectClient_24] 4
+[2018.02.08-06.55.39:398][616]LogBlueprintUserMessages: [VictoryConnectClient_24] 1 heartbeat no_data
+[2018.02.08-06.55.39:903][676]LogBlueprintUserMessages: [VictoryConnectClient_24] 4
+[2018.02.08-06.55.39:903][676]LogBlueprintUserMessages: [VictoryConnectClient_24] 1 heartbeat no_data
+[2018.02.08-06.55.40:407][736]LogBlueprintUserMessages: [VictoryConnectClient_24] 4
+[2018.02.08-06.55.40:407][736]LogBlueprintUserMessages: [VictoryConnectClient_24] 1 heartbeat no_data
+[2018.02.08-06.55.44:427][ 84]LogTemp: Display: Close Socket
+[2018.02.08-06.59.09:396][804]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/VictoryConnectClient" FILE="E:/Programs/FRC/Projects/VictoryDashboard/VictoryDashboardUE/Content/Blueprints/VictoryConnectClient.uasset" SILENT=true
+[2018.02.08-06.59.09:445][804]LogSavePackage: Save=46.34ms
+[2018.02.08-06.59.09:446][804]LogSavePackage: Moving 'E:/Programs/FRC/Projects/VictoryDashboard/VictoryDashboardUE/Saved/VictoryConnectClient7452AA1544A3C98BDE1FA6B4D48F0AF9.tmp' to 'E:/Programs/FRC/Projects/VictoryDashboard/VictoryDashboardUE/Content/Blueprints/VictoryConnectClient.uasset'
+[2018.02.08-06.59.09:450][804]LogSavePackage: Display: Finished SavePackage E:/Programs/FRC/Projects/VictoryDashboard/VictoryDashboardUE/Content/Blueprints/VictoryConnectClient.uasset
+[2018.02.08-06.59.10:512][896]BlueprintLog: New page: Compile VictoryConnectClient
+[2018.02.08-06.59.14:224][ 26]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.08-06.59.14:256][ 26]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.08-06.59.14:256][ 26]PIE: New page: PIE session: Untitled_1 (Feb 7, 2018, 2:59:14 PM)
+[2018.02.08-06.59.14:256][ 26]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2018.02.08-06.59.14:262][ 26]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005290s)
+[2018.02.08-06.59.14:262][ 26]LogAIModule: Creating AISystem for world Untitled_1
+[2018.02.08-06.59.14:263][ 26]LogPlayLevel: PIE: World Init took: (0.000744s)
+[2018.02.08-06.59.14:263][ 26]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.006337s)
+[2018.02.08-06.59.14:288][ 26]LogInit: XAudio2 using 'Speakers (Logitech G933 Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.02.08-06.59.14:311][ 26]LogInit: FAudioDevice initialized.
+[2018.02.08-06.59.14:346][ 26]LogLoad: Game class is 'GameModeBase'
+[2018.02.08-06.59.14:348][ 26]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2018.02.07-22.59.14
+[2018.02.08-06.59.14:348][ 26]LogWorld: Bringing up level for play took: 0.000752
+[2018.02.08-06.59.14:349][ 26]LogTemp: Warning: Tread:127.0.0.1:9000
+[2018.02.08-06.59.14:349][ 26]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 -0.456
+[2018.02.08-06.59.14:352][ 26]LogBlueprintUserMessages: [VictoryConnectClient_24] Connection successful:127.0.0.1:9000
+[2018.02.08-06.59.15:864][201]LogTemp: Display: Close Socket
+[2018.02.08-06.59.15:865][201]LogBlueprintUserMessages: [VictoryConnectClient_24] Connection close:127.0.0.1:9000
+[2018.02.08-06.59.23:826][116]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.08-06.59.23:841][116]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.08-06.59.23:841][116]PIE: New page: PIE session: Untitled_1 (Feb 7, 2018, 2:59:23 PM)
+[2018.02.08-06.59.23:841][116]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2018.02.08-06.59.23:846][116]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004782s)
+[2018.02.08-06.59.23:847][116]LogAIModule: Creating AISystem for world Untitled_1
+[2018.02.08-06.59.23:847][116]LogPlayLevel: PIE: World Init took: (0.000736s)
+[2018.02.08-06.59.23:847][116]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.005865s)
+[2018.02.08-06.59.23:873][116]LogInit: XAudio2 using 'Speakers (Logitech G933 Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.02.08-06.59.23:895][116]LogInit: FAudioDevice initialized.
+[2018.02.08-06.59.23:932][116]LogLoad: Game class is 'GameModeBase'
+[2018.02.08-06.59.23:933][116]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2018.02.07-22.59.23
+[2018.02.08-06.59.23:933][116]LogWorld: Bringing up level for play took: 0.000682
+[2018.02.08-06.59.23:935][116]LogTemp: Warning: Tread:127.0.0.1:9000
+[2018.02.08-06.59.23:935][116]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 -0.871
+[2018.02.08-06.59.23:938][116]LogBlueprintUserMessages: [VictoryConnectClient_24] Connection successful:127.0.0.1:9000
+[2018.02.08-06.59.25:952][351]LogTemp: Display: Close Socket
+[2018.02.08-06.59.25:952][351]LogBlueprintUserMessages: [VictoryConnectClient_24] Connection close:127.0.0.1:9000
+[2018.02.08-06.59.40:884][778]BlueprintLog: New page: Compile VictoryConnectClient
+[2018.02.08-06.59.42:228][839]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.08-06.59.42:256][839]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.08-06.59.42:256][839]PIE: New page: PIE session: Untitled_1 (Feb 7, 2018, 2:59:42 PM)
+[2018.02.08-06.59.42:257][839]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2018.02.08-06.59.42:263][839]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006061s)
+[2018.02.08-06.59.42:263][839]LogAIModule: Creating AISystem for world Untitled_1
+[2018.02.08-06.59.42:264][839]LogPlayLevel: PIE: World Init took: (0.000748s)
+[2018.02.08-06.59.42:264][839]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.007129s)
+[2018.02.08-06.59.42:289][839]LogInit: XAudio2 using 'Speakers (Logitech G933 Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.02.08-06.59.42:311][839]LogInit: FAudioDevice initialized.
+[2018.02.08-06.59.42:346][839]LogLoad: Game class is 'GameModeBase'
+[2018.02.08-06.59.42:347][839]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2018.02.07-22.59.42
+[2018.02.08-06.59.42:347][839]LogWorld: Bringing up level for play took: 0.000691
+[2018.02.08-06.59.42:349][839]LogTemp: Warning: Tread:127.0.0.1:9000
+[2018.02.08-06.59.42:349][839]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 -0.457
+[2018.02.08-06.59.42:352][839]LogBlueprintUserMessages: [VictoryConnectClient_24] Connection successful:127.0.0.1:9000
+[2018.02.08-06.59.42:352][839]LogBlueprintUserMessages: [VictoryConnectClient_24] 7 0 welcome no_data
+[2018.02.08-06.59.42:861][894]LogBlueprintUserMessages: [VictoryConnectClient_24] 7 1 heartbeat no_data
+[2018.02.08-06.59.43:361][954]LogBlueprintUserMessages: [VictoryConnectClient_24] 7 1 heartbeat no_data
+[2018.02.08-06.59.43:865][ 14]LogBlueprintUserMessages: [VictoryConnectClient_24] 7 1 heartbeat no_data
+[2018.02.08-06.59.44:366][ 74]LogTemp: Display: Close Socket
+[2018.02.08-06.59.44:366][ 74]LogBlueprintUserMessages: [VictoryConnectClient_24] Connection close:127.0.0.1:9000
+[2018.02.08-06.59.51:909][688]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.08-06.59.51:925][688]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.08-06.59.51:925][688]PIE: New page: PIE session: Untitled_1 (Feb 7, 2018, 2:59:51 PM)
+[2018.02.08-06.59.51:925][688]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2018.02.08-06.59.51:930][688]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005097s)
+[2018.02.08-06.59.51:931][688]LogAIModule: Creating AISystem for world Untitled_1
+[2018.02.08-06.59.51:931][688]LogPlayLevel: PIE: World Init took: (0.000681s)
+[2018.02.08-06.59.51:931][688]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.006107s)
+[2018.02.08-06.59.51:955][688]LogInit: XAudio2 using 'Speakers (Logitech G933 Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.02.08-06.59.51:978][688]LogInit: FAudioDevice initialized.
+[2018.02.08-06.59.52:012][688]LogLoad: Game class is 'GameModeBase'
+[2018.02.08-06.59.52:014][688]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2018.02.07-22.59.52
+[2018.02.08-06.59.52:014][688]LogWorld: Bringing up level for play took: 0.000661
+[2018.02.08-06.59.52:015][688]LogTemp: Warning: Tread:127.0.0.1:9000
+[2018.02.08-06.59.52:015][688]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 -0.791
+[2018.02.08-06.59.52:018][688]LogBlueprintUserMessages: [VictoryConnectClient_24] Connection successful:127.0.0.1:9000
+[2018.02.08-06.59.52:018][688]LogBlueprintUserMessages: [VictoryConnectClient_24] 8 0 welcome no_data
+[2018.02.08-06.59.52:526][743]LogBlueprintUserMessages: [VictoryConnectClient_24] 8 1 heartbeat no_data
+[2018.02.08-06.59.53:032][801]LogTemp: Display: Close Socket
+[2018.02.08-07.00.14:634][863]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/VictoryConnectClient" FILE="E:/Programs/FRC/Projects/VictoryDashboard/VictoryDashboardUE/Content/Blueprints/VictoryConnectClient.uasset" SILENT=true
+[2018.02.08-07.00.14:695][863]LogSavePackage: Save=51.06ms
+[2018.02.08-07.00.14:696][863]LogSavePackage: Moving 'E:/Programs/FRC/Projects/VictoryDashboard/VictoryDashboardUE/Saved/VictoryConnectClient5C977FBC4127CBB04FAE19AB074F4CED.tmp' to 'E:/Programs/FRC/Projects/VictoryDashboard/VictoryDashboardUE/Content/Blueprints/VictoryConnectClient.uasset'
+[2018.02.08-07.00.14:700][863]LogSavePackage: Display: Finished SavePackage E:/Programs/FRC/Projects/VictoryDashboard/VictoryDashboardUE/Content/Blueprints/VictoryConnectClient.uasset
+[2018.02.08-07.00.22:776][303]BlueprintLog: New page: Compile VictoryConnectClient
+[2018.02.08-07.00.24:098][359]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.08-07.00.24:131][359]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.08-07.00.24:131][359]PIE: New page: PIE session: Untitled_1 (Feb 7, 2018, 3:00:24 PM)
+[2018.02.08-07.00.24:131][359]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2018.02.08-07.00.24:137][359]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005531s)
+[2018.02.08-07.00.24:137][359]LogAIModule: Creating AISystem for world Untitled_1
+[2018.02.08-07.00.24:138][359]LogPlayLevel: PIE: World Init took: (0.000977s)
+[2018.02.08-07.00.24:138][359]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.006910s)
+[2018.02.08-07.00.24:162][359]LogInit: XAudio2 using 'Speakers (Logitech G933 Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.02.08-07.00.24:183][359]LogInit: FAudioDevice initialized.
+[2018.02.08-07.00.24:218][359]LogLoad: Game class is 'GameModeBase'
+[2018.02.08-07.00.24:219][359]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2018.02.07-23.00.24
+[2018.02.08-07.00.24:219][359]LogWorld: Bringing up level for play took: 0.000735
+[2018.02.08-07.00.24:221][359]LogTemp: Warning: Tread:127.0.0.1:9000
+[2018.02.08-07.00.24:221][359]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 -0.585
+[2018.02.08-07.00.24:224][359]LogBlueprintUserMessages: [VictoryConnectClient_24] Connection successful:127.0.0.1:9000
+[2018.02.08-07.00.24:224][359]LogBlueprintUserMessages: [VictoryConnectClient_24] 9 0 welcome no_data
+[2018.02.08-07.00.24:734][414]LogBlueprintUserMessages: [VictoryConnectClient_24] 9 1 heartbeat no_data
+[2018.02.08-07.00.25:236][474]LogBlueprintUserMessages: [VictoryConnectClient_24] 9 1 heartbeat no_data
+[2018.02.08-07.00.25:736][534]LogBlueprintUserMessages: [VictoryConnectClient_24] 9 1 heartbeat no_data
+[2018.02.08-07.00.26:235][594]LogTemp: Display: Close Socket
+[2018.02.08-07.00.26:235][594]LogBlueprintUserMessages: [VictoryConnectClient_24] Connection close:127.0.0.1:9000
+[2018.02.08-07.00.54:110][473]BlueprintLog: New page: Compile VictoryConnectClient
+[2018.02.08-07.00.55:940][569]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.08-07.00.55:970][569]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.08-07.00.55:970][569]PIE: New page: PIE session: Untitled_1 (Feb 7, 2018, 3:00:55 PM)
+[2018.02.08-07.00.55:970][569]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2018.02.08-07.00.55:975][569]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005069s)
+[2018.02.08-07.00.55:976][569]LogAIModule: Creating AISystem for world Untitled_1
+[2018.02.08-07.00.55:976][569]LogPlayLevel: PIE: World Init took: (0.000875s)
+[2018.02.08-07.00.55:977][569]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.006323s)
+[2018.02.08-07.00.56:005][569]LogInit: XAudio2 using 'Speakers (Logitech G933 Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.02.08-07.00.56:029][569]LogInit: FAudioDevice initialized.
+[2018.02.08-07.00.56:062][569]LogLoad: Game class is 'GameModeBase'
+[2018.02.08-07.00.56:064][569]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2018.02.07-23.00.56
+[2018.02.08-07.00.56:064][569]LogWorld: Bringing up level for play took: 0.000714
+[2018.02.08-07.00.56:065][569]LogTemp: Warning: Tread:127.0.0.1:9000
+[2018.02.08-07.00.56:065][569]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 -0.741
+[2018.02.08-07.00.56:068][569]LogBlueprintUserMessages: [VictoryConnectClient_24] Connection successful:127.0.0.1:9000
+[2018.02.08-07.00.56:068][569]LogBlueprintUserMessages: [VictoryConnectClient_24] 10 0 welcome no_data
+[2018.02.08-07.00.56:068][569]LogBlueprintUserMessages: [VictoryConnectClient_24] welcome
+[2018.02.08-07.00.56:576][623]LogBlueprintUserMessages: [VictoryConnectClient_24] 10 1 heartbeat no_data
+[2018.02.08-07.00.56:576][623]LogBlueprintUserMessages: [VictoryConnectClient_24] heartbeat
+[2018.02.08-07.00.57:078][683]LogBlueprintUserMessages: [VictoryConnectClient_24] 10 1 heartbeat no_data
+[2018.02.08-07.00.57:078][683]LogBlueprintUserMessages: [VictoryConnectClient_24] heartbeat
+[2018.02.08-07.00.57:578][743]LogTemp: Display: Close Socket
+[2018.02.08-07.00.57:578][743]LogBlueprintUserMessages: [VictoryConnectClient_24] Connection close:127.0.0.1:9000
+[2018.02.08-07.01.17:250][180]BlueprintLog: New page: Compile VictoryConnectClient
+[2018.02.08-07.01.18:562][261]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.08-07.01.18:588][261]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.08-07.01.18:588][261]PIE: New page: PIE session: Untitled_1 (Feb 7, 2018, 3:01:18 PM)
+[2018.02.08-07.01.18:588][261]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2018.02.08-07.01.18:593][261]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004557s)
+[2018.02.08-07.01.18:594][261]LogAIModule: Creating AISystem for world Untitled_1
+[2018.02.08-07.01.18:594][261]LogPlayLevel: PIE: World Init took: (0.000786s)
+[2018.02.08-07.01.18:594][261]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.005694s)
+[2018.02.08-07.01.18:618][261]LogInit: XAudio2 using 'Speakers (Logitech G933 Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.02.08-07.01.18:642][261]LogInit: FAudioDevice initialized.
+[2018.02.08-07.01.18:679][261]LogLoad: Game class is 'GameModeBase'
+[2018.02.08-07.01.18:681][261]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2018.02.07-23.01.18
+[2018.02.08-07.01.18:681][261]LogWorld: Bringing up level for play took: 0.000750
+[2018.02.08-07.01.18:682][261]LogTemp: Warning: Tread:127.0.0.1:9000
+[2018.02.08-07.01.18:682][261]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 -0.123
+[2018.02.08-07.01.18:685][261]LogBlueprintUserMessages: [VictoryConnectClient_24] Connection successful:127.0.0.1:9000
+[2018.02.08-07.01.18:685][261]LogBlueprintUserMessages: [VictoryConnectClient_24] 11 0 welcome no_data
+[2018.02.08-07.01.18:686][261]LogBlueprintUserMessages: [VictoryConnectClient_24] welcome
+[2018.02.08-07.01.19:195][317]LogBlueprintUserMessages: [VictoryConnectClient_24] 11 1 heartbeat no_data
+[2018.02.08-07.01.19:195][317]LogBlueprintUserMessages: [VictoryConnectClient_24] heartbeat
+[2018.02.08-07.01.19:695][377]LogBlueprintUserMessages: [VictoryConnectClient_24] 11 1 heartbeat no_data
+[2018.02.08-07.01.19:695][377]LogBlueprintUserMessages: [VictoryConnectClient_24] heartbeat
+[2018.02.08-07.01.19:798][379]LogTemp: Display: Close Socket
+[2018.02.08-07.01.33:237][522]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/VictoryConnectClient" FILE="E:/Programs/FRC/Projects/VictoryDashboard/VictoryDashboardUE/Content/Blueprints/VictoryConnectClient.uasset" SILENT=true
+[2018.02.08-07.01.33:292][522]LogSavePackage: Save=51.86ms
+[2018.02.08-07.01.33:292][522]LogSavePackage: Moving 'E:/Programs/FRC/Projects/VictoryDashboard/VictoryDashboardUE/Saved/VictoryConnectClient6AA2554747830A629D553F92E7CA709D.tmp' to 'E:/Programs/FRC/Projects/VictoryDashboard/VictoryDashboardUE/Content/Blueprints/VictoryConnectClient.uasset'
+[2018.02.08-07.01.33:295][522]LogSavePackage: Display: Finished SavePackage E:/Programs/FRC/Projects/VictoryDashboard/VictoryDashboardUE/Content/Blueprints/VictoryConnectClient.uasset
+[2018.02.08-07.01.37:627][892]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/VictoryConnectClient" FILE="E:/Programs/FRC/Projects/VictoryDashboard/VictoryDashboardUE/Content/Blueprints/VictoryConnectClient.uasset" SILENT=true
+[2018.02.08-07.01.37:681][892]LogSavePackage: Save=51.00ms
+[2018.02.08-07.01.37:681][892]LogSavePackage: Moving 'E:/Programs/FRC/Projects/VictoryDashboard/VictoryDashboardUE/Saved/VictoryConnectClientB262F962485A9E4F478AD6B08D0970C3.tmp' to 'E:/Programs/FRC/Projects/VictoryDashboard/VictoryDashboardUE/Content/Blueprints/VictoryConnectClient.uasset'
+[2018.02.08-07.01.37:686][892]LogSavePackage: Display: Finished SavePackage E:/Programs/FRC/Projects/VictoryDashboard/VictoryDashboardUE/Content/Blueprints/VictoryConnectClient.uasset
+[2018.02.08-07.01.41:032][238]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.08-07.01.41:047][238]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.08-07.01.41:047][238]PIE: New page: PIE session: Untitled_1 (Feb 7, 2018, 3:01:41 PM)
+[2018.02.08-07.01.41:047][238]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2018.02.08-07.01.41:052][238]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004834s)
+[2018.02.08-07.01.41:052][238]LogAIModule: Creating AISystem for world Untitled_1
+[2018.02.08-07.01.41:052][238]LogPlayLevel: PIE: World Init took: (0.000673s)
+[2018.02.08-07.01.41:053][238]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.005821s)
+[2018.02.08-07.01.41:076][238]LogInit: XAudio2 using 'Speakers (Logitech G933 Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.02.08-07.01.41:096][238]LogInit: FAudioDevice initialized.
+[2018.02.08-07.01.41:132][238]LogLoad: Game class is 'GameModeBase'
+[2018.02.08-07.01.41:133][238]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2018.02.07-23.01.41
+[2018.02.08-07.01.41:133][238]LogWorld: Bringing up level for play took: 0.000709
+[2018.02.08-07.01.41:135][238]LogTemp: Warning: Tread:127.0.0.1:9000
+[2018.02.08-07.01.41:135][238]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 0.329
+[2018.02.08-07.01.41:137][238]LogBlueprintUserMessages: [VictoryConnectClient_24] Connection successful:127.0.0.1:9000
+[2018.02.08-07.01.41:178][239]LogBlueprintUserMessages: [VictoryConnectClient_24] 12 0 welcome no_data
+[2018.02.08-07.01.41:178][239]LogBlueprintUserMessages: [VictoryConnectClient_24] welcome
+[2018.02.08-07.01.41:687][300]LogBlueprintUserMessages: [VictoryConnectClient_24] 12 1 heartbeat no_data
+[2018.02.08-07.01.41:687][300]LogBlueprintUserMessages: [VictoryConnectClient_24] heartbeat
+[2018.02.08-07.01.42:187][360]LogBlueprintUserMessages: [VictoryConnectClient_24] 12 1 heartbeat no_data
+[2018.02.08-07.01.42:187][360]LogBlueprintUserMessages: [VictoryConnectClient_24] heartbeat
+[2018.02.08-07.01.42:687][420]LogTemp: Display: Close Socket
+[2018.02.08-07.01.42:687][420]LogBlueprintUserMessages: [VictoryConnectClient_24] Connection close:127.0.0.1:9000
+[2018.02.08-07.01.57:762][ 68]BlueprintLog: New page: Compile VictoryConnectClient
+[2018.02.08-07.01.58:943][141]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.08-07.01.58:972][141]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.08-07.01.58:972][141]PIE: New page: PIE session: Untitled_1 (Feb 7, 2018, 3:01:58 PM)
+[2018.02.08-07.01.58:972][141]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2018.02.08-07.01.58:977][141]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004334s)
+[2018.02.08-07.01.58:978][141]LogAIModule: Creating AISystem for world Untitled_1
+[2018.02.08-07.01.58:978][141]LogPlayLevel: PIE: World Init took: (0.000948s)
+[2018.02.08-07.01.58:978][141]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.005764s)
+[2018.02.08-07.01.59:007][141]LogInit: XAudio2 using 'Speakers (Logitech G933 Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.02.08-07.01.59:032][141]LogInit: FAudioDevice initialized.
+[2018.02.08-07.01.59:066][141]LogLoad: Game class is 'GameModeBase'
+[2018.02.08-07.01.59:067][141]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2018.02.07-23.01.59
+[2018.02.08-07.01.59:068][141]LogWorld: Bringing up level for play took: 0.000927
+[2018.02.08-07.01.59:069][141]LogTemp: Warning: Tread:127.0.0.1:9000
+[2018.02.08-07.01.59:069][141]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 0.263
+[2018.02.08-07.01.59:072][141]LogBlueprintUserMessages: [VictoryConnectClient_24] Connection successful:127.0.0.1:9000
+[2018.02.08-07.01.59:072][141]LogBlueprintUserMessages: [VictoryConnectClient_24] 13 0 welcome no_data
+[2018.02.08-07.01.59:072][141]LogBlueprintUserMessages: [VictoryConnectClient_24] welcome
+[2018.02.08-07.01.59:584][198]LogBlueprintUserMessages: [VictoryConnectClient_24] 13 1 heartbeat no_data
+[2018.02.08-07.01.59:584][198]LogBlueprintUserMessages: [VictoryConnectClient_24] heartbeat
+[2018.02.08-07.01.59:584][198]LogBlueprintUserMessages: [VictoryConnectClient_24] Hello
+[2018.02.08-07.02.00:086][258]LogTemp: Display: Close Socket
+[2018.02.08-07.02.00:086][258]LogBlueprintUserMessages: [VictoryConnectClient_24] Connection close:127.0.0.1:9000
+[2018.02.08-07.02.06:978][941]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/VictoryConnectClient" FILE="E:/Programs/FRC/Projects/VictoryDashboard/VictoryDashboardUE/Content/Blueprints/VictoryConnectClient.uasset" SILENT=true
+[2018.02.08-07.02.07:039][941]LogSavePackage: Save=57.37ms
+[2018.02.08-07.02.07:039][941]LogSavePackage: Moving 'E:/Programs/FRC/Projects/VictoryDashboard/VictoryDashboardUE/Saved/VictoryConnectClientF99C5EDD46D5289A981A6B9C092453A3.tmp' to 'E:/Programs/FRC/Projects/VictoryDashboard/VictoryDashboardUE/Content/Blueprints/VictoryConnectClient.uasset'
+[2018.02.08-07.02.07:043][941]LogSavePackage: Display: Finished SavePackage E:/Programs/FRC/Projects/VictoryDashboard/VictoryDashboardUE/Content/Blueprints/VictoryConnectClient.uasset
+[2018.02.08-07.02.07:549][980]BlueprintLog: New page: Compile VictoryConnectClient
+[2018.02.08-07.02.08:228][  2]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/VictoryConnectClient" FILE="E:/Programs/FRC/Projects/VictoryDashboard/VictoryDashboardUE/Content/Blueprints/VictoryConnectClient.uasset" SILENT=true
+[2018.02.08-07.02.08:282][  2]LogSavePackage: Save=50.56ms
+[2018.02.08-07.02.08:282][  2]LogSavePackage: Moving 'E:/Programs/FRC/Projects/VictoryDashboard/VictoryDashboardUE/Saved/VictoryConnectClient39E5DB4B418CE3548D9374B3499CD2A6.tmp' to 'E:/Programs/FRC/Projects/VictoryDashboard/VictoryDashboardUE/Content/Blueprints/VictoryConnectClient.uasset'
+[2018.02.08-07.02.08:284][  2]LogSavePackage: Display: Finished SavePackage E:/Programs/FRC/Projects/VictoryDashboard/VictoryDashboardUE/Content/Blueprints/VictoryConnectClient.uasset
+[2018.02.08-07.02.10:641][246]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.08-07.02.10:672][246]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.08-07.02.10:672][246]PIE: New page: PIE session: Untitled_1 (Feb 7, 2018, 3:02:10 PM)
+[2018.02.08-07.02.10:672][246]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2018.02.08-07.02.10:676][246]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004162s)
+[2018.02.08-07.02.10:677][246]LogAIModule: Creating AISystem for world Untitled_1
+[2018.02.08-07.02.10:677][246]LogPlayLevel: PIE: World Init took: (0.000862s)
+[2018.02.08-07.02.10:677][246]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.005361s)
+[2018.02.08-07.02.10:700][246]LogInit: XAudio2 using 'Speakers (Logitech G933 Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.02.08-07.02.10:721][246]LogInit: FAudioDevice initialized.
+[2018.02.08-07.02.10:757][246]LogLoad: Game class is 'GameModeBase'
+[2018.02.08-07.02.10:758][246]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2018.02.07-23.02.10
+[2018.02.08-07.02.10:759][246]LogWorld: Bringing up level for play took: 0.000910
+[2018.02.08-07.02.10:760][246]LogTemp: Warning: Tread:127.0.0.1:9000
+[2018.02.08-07.02.10:760][246]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 -0.046
+[2018.02.08-07.02.10:763][246]LogBlueprintUserMessages: [VictoryConnectClient_24] Connection successful:127.0.0.1:9000
+[2018.02.08-07.02.10:763][246]LogBlueprintUserMessages: [VictoryConnectClient_24] 14 0 welcome no_data
+[2018.02.08-07.02.10:763][246]LogBlueprintUserMessages: [VictoryConnectClient_24] welcome
+[2018.02.08-07.02.11:274][303]LogBlueprintUserMessages: [VictoryConnectClient_24] 14 1 heartbeat no_data
+[2018.02.08-07.02.11:274][303]LogBlueprintUserMessages: [VictoryConnectClient_24] heartbeat
+[2018.02.08-07.02.11:274][303]LogBlueprintUserMessages: [VictoryConnectClient_24] Hello
+[2018.02.08-07.02.11:774][363]LogBlueprintUserMessages: [VictoryConnectClient_24] 14 1 heartbeat no_data
+[2018.02.08-07.02.11:774][363]LogBlueprintUserMessages: [VictoryConnectClient_24] heartbeat
+[2018.02.08-07.02.11:774][363]LogBlueprintUserMessages: [VictoryConnectClient_24] Hello
+[2018.02.08-07.02.12:275][423]LogBlueprintUserMessages: [VictoryConnectClient_24] 14 1 heartbeat no_data
+[2018.02.08-07.02.12:275][423]LogBlueprintUserMessages: [VictoryConnectClient_24] heartbeat
+[2018.02.08-07.02.12:275][423]LogBlueprintUserMessages: [VictoryConnectClient_24] Hello
+[2018.02.08-07.02.12:776][483]LogTemp: Display: Close Socket
+[2018.02.08-07.02.12:776][483]LogBlueprintUserMessages: [VictoryConnectClient_24] Connection close:127.0.0.1:9000
+[2018.02.08-07.02.19:233][951]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.08-07.02.19:248][951]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.08-07.02.19:248][951]PIE: New page: PIE session: Untitled_1 (Feb 7, 2018, 3:02:19 PM)
+[2018.02.08-07.02.19:248][951]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2018.02.08-07.02.19:253][951]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004393s)
+[2018.02.08-07.02.19:253][951]LogAIModule: Creating AISystem for world Untitled_1
+[2018.02.08-07.02.19:253][951]LogPlayLevel: PIE: World Init took: (0.000802s)
+[2018.02.08-07.02.19:254][951]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.005526s)
+[2018.02.08-07.02.19:279][951]LogInit: XAudio2 using 'Speakers (Logitech G933 Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.02.08-07.02.19:301][951]LogInit: FAudioDevice initialized.
+[2018.02.08-07.02.19:335][951]LogLoad: Game class is 'GameModeBase'
+[2018.02.08-07.02.19:337][951]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2018.02.07-23.02.19
+[2018.02.08-07.02.19:337][951]LogWorld: Bringing up level for play took: 0.000701
+[2018.02.08-07.02.19:338][951]LogTemp: Warning: Tread:127.0.0.1:9000
+[2018.02.08-07.02.19:338][951]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 0.532
+[2018.02.08-07.02.19:341][951]LogBlueprintUserMessages: [VictoryConnectClient_24] Connection successful:127.0.0.1:9000
+[2018.02.08-07.02.19:341][951]LogBlueprintUserMessages: [VictoryConnectClient_24] 15 0 welcome no_data
+[2018.02.08-07.02.19:341][951]LogBlueprintUserMessages: [VictoryConnectClient_24] welcome
+[2018.02.08-07.02.19:855][  8]LogBlueprintUserMessages: [VictoryConnectClient_24] 15 1 heartbeat no_data
+[2018.02.08-07.02.19:855][  8]LogBlueprintUserMessages: [VictoryConnectClient_24] heartbeat
+[2018.02.08-07.02.19:855][  8]LogBlueprintUserMessages: [VictoryConnectClient_24] Hello
+[2018.02.08-07.02.20:355][ 68]LogBlueprintUserMessages: [VictoryConnectClient_24] 15 1 heartbeat no_data
+[2018.02.08-07.02.20:355][ 68]LogBlueprintUserMessages: [VictoryConnectClient_24] heartbeat
+[2018.02.08-07.02.20:355][ 68]LogBlueprintUserMessages: [VictoryConnectClient_24] Hello
+[2018.02.08-07.02.20:856][128]LogTemp: Display: Close Socket
+[2018.02.08-07.02.20:856][128]LogBlueprintUserMessages: [VictoryConnectClient_24] Connection close:127.0.0.1:9000
+[2018.02.08-07.03.24:658][644]BlueprintLog: New page: Compile VictoryConnectClient
+[2018.02.08-07.03.26:086][724]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.08-07.03.26:113][724]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.08-07.03.26:113][724]PIE: New page: PIE session: Untitled_1 (Feb 7, 2018, 3:03:26 PM)
+[2018.02.08-07.03.26:114][724]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2018.02.08-07.03.26:118][724]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004770s)
+[2018.02.08-07.03.26:119][724]LogAIModule: Creating AISystem for world Untitled_1
+[2018.02.08-07.03.26:119][724]LogPlayLevel: PIE: World Init took: (0.000724s)
+[2018.02.08-07.03.26:119][724]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.005813s)
+[2018.02.08-07.03.26:145][724]LogInit: XAudio2 using 'Speakers (Logitech G933 Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.02.08-07.03.26:171][724]LogInit: FAudioDevice initialized.
+[2018.02.08-07.03.26:211][724]LogLoad: Game class is 'GameModeBase'
+[2018.02.08-07.03.26:212][724]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2018.02.07-23.03.26
+[2018.02.08-07.03.26:212][724]LogWorld: Bringing up level for play took: 0.000897
+[2018.02.08-07.03.26:214][724]LogTemp: Warning: Tread:127.0.0.1:9000
+[2018.02.08-07.03.26:214][724]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 -0.592
+[2018.02.08-07.03.26:218][724]LogBlueprintUserMessages: [VictoryConnectClient_24] Connection successful:127.0.0.1:9000
+[2018.02.08-07.03.26:218][724]LogBlueprintUserMessages: [VictoryConnectClient_24] 16 0 welcome no_data
+[2018.02.08-07.03.26:218][724]LogBlueprintUserMessages: [VictoryConnectClient_24] welcome
+[2018.02.08-07.03.26:727][779]LogBlueprintUserMessages: [VictoryConnectClient_24] 16 1 heartbeat no_data
+[2018.02.08-07.03.26:727][779]LogBlueprintUserMessages: [VictoryConnectClient_24] heartbeat
+[2018.02.08-07.03.26:727][779]LogBlueprintUserMessages: [VictoryConnectClient_24] Hello
+[2018.02.08-07.03.27:226][839]LogTemp: Display: Close Socket
+[2018.02.08-07.03.27:226][839]LogBlueprintUserMessages: [VictoryConnectClient_24] Connection close:127.0.0.1:9000
+[2018.02.08-07.03.36:455][544]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.08-07.03.36:470][544]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.08-07.03.36:470][544]PIE: New page: PIE session: Untitled_1 (Feb 7, 2018, 3:03:36 PM)
+[2018.02.08-07.03.36:470][544]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2018.02.08-07.03.36:475][544]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004974s)
+[2018.02.08-07.03.36:476][544]LogAIModule: Creating AISystem for world Untitled_1
+[2018.02.08-07.03.36:476][544]LogPlayLevel: PIE: World Init took: (0.000739s)
+[2018.02.08-07.03.36:477][544]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.006068s)
+[2018.02.08-07.03.36:501][544]LogInit: XAudio2 using 'Speakers (Logitech G933 Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.02.08-07.03.36:525][544]LogInit: FAudioDevice initialized.
+[2018.02.08-07.03.36:561][544]LogLoad: Game class is 'GameModeBase'
+[2018.02.08-07.03.36:563][544]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2018.02.07-23.03.36
+[2018.02.08-07.03.36:563][544]LogWorld: Bringing up level for play took: 0.000891
+[2018.02.08-07.03.36:565][544]LogTemp: Warning: Tread:127.0.0.1:9000
+[2018.02.08-07.03.36:565][544]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 -0.241
+[2018.02.08-07.03.36:569][544]LogBlueprintUserMessages: [VictoryConnectClient_24] Connection successful:127.0.0.1:9000
+[2018.02.08-07.03.36:590][545]LogBlueprintUserMessages: [VictoryConnectClient_24] 1 0 welcome no_data
+[2018.02.08-07.03.36:590][545]LogBlueprintUserMessages: [VictoryConnectClient_24] welcome
+[2018.02.08-07.03.37:081][600]LogBlueprintUserMessages: [VictoryConnectClient_24] 1 1 heartbeat no_data
+[2018.02.08-07.03.37:081][600]LogBlueprintUserMessages: [VictoryConnectClient_24] heartbeat
+[2018.02.08-07.03.37:081][600]LogBlueprintUserMessages: [VictoryConnectClient_24] Hello
+[2018.02.08-07.03.37:580][660]LogBlueprintUserMessages: [VictoryConnectClient_24] 1 1 heartbeat no_data
+[2018.02.08-07.03.37:580][660]LogBlueprintUserMessages: [VictoryConnectClient_24] heartbeat
+[2018.02.08-07.03.37:581][660]LogBlueprintUserMessages: [VictoryConnectClient_24] Hello
+[2018.02.08-07.03.38:085][720]LogBlueprintUserMessages: [VictoryConnectClient_24] 1 1 heartbeat no_data
+[2018.02.08-07.03.38:085][720]LogBlueprintUserMessages: [VictoryConnectClient_24] heartbeat
+[2018.02.08-07.03.38:085][720]LogBlueprintUserMessages: [VictoryConnectClient_24] Hello
+[2018.02.08-07.03.38:585][779]LogTemp: Display: Close Socket
+[2018.02.08-07.03.38:585][779]LogBlueprintUserMessages: [VictoryConnectClient_24] Connection close:127.0.0.1:9000
+[2018.02.08-07.03.51:146][226]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.08-07.03.51:162][226]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.08-07.03.51:162][226]PIE: New page: PIE session: Untitled_1 (Feb 7, 2018, 3:03:51 PM)
+[2018.02.08-07.03.51:162][226]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2018.02.08-07.03.51:167][226]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005035s)
+[2018.02.08-07.03.51:168][226]LogAIModule: Creating AISystem for world Untitled_1
+[2018.02.08-07.03.51:168][226]LogPlayLevel: PIE: World Init took: (0.000905s)
+[2018.02.08-07.03.51:168][226]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.006288s)
+[2018.02.08-07.03.51:196][226]LogInit: XAudio2 using 'Speakers (Logitech G933 Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.02.08-07.03.51:219][226]LogInit: FAudioDevice initialized.
+[2018.02.08-07.03.51:273][226]LogLoad: Game class is 'GameModeBase'
+[2018.02.08-07.03.51:274][226]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2018.02.07-23.03.51
+[2018.02.08-07.03.51:274][226]LogWorld: Bringing up level for play took: 0.000828
+[2018.02.08-07.03.51:280][226]LogTemp: Warning: Tread:127.0.0.1:9000
+[2018.02.08-07.03.51:281][226]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 0.475
+[2018.02.08-07.03.51:284][226]LogBlueprintUserMessages: [VictoryConnectClient_24] Connection successful:127.0.0.1:9000
+[2018.02.08-07.03.51:285][226]LogBlueprintUserMessages: [VictoryConnectClient_24] 2 0 welcome no_data
+[2018.02.08-07.03.51:285][226]LogBlueprintUserMessages: [VictoryConnectClient_24] welcome
+[2018.02.08-07.03.51:314][226]LogRenderer: Reallocating scene render targets to support 1400x756 Format 10 NumSamples 1 (Frame:1).
+[2018.02.08-07.03.51:793][247]LogBlueprintUserMessages: [VictoryConnectClient_24] 2 1 heartbeat no_data
+[2018.02.08-07.03.51:793][247]LogBlueprintUserMessages: [VictoryConnectClient_24] heartbeat
+[2018.02.08-07.03.51:793][247]LogBlueprintUserMessages: [VictoryConnectClient_24] Hello
+[2018.02.08-07.03.52:293][273]LogBlueprintUserMessages: [VictoryConnectClient_24] 2 1 heartbeat no_data
+[2018.02.08-07.03.52:293][273]LogBlueprintUserMessages: [VictoryConnectClient_24] heartbeat
+[2018.02.08-07.03.52:294][273]LogBlueprintUserMessages: [VictoryConnectClient_24] Hello
+[2018.02.08-07.03.52:798][301]LogBlueprintUserMessages: [VictoryConnectClient_24] 2 1 heartbeat no_data
+[2018.02.08-07.03.52:799][301]LogBlueprintUserMessages: [VictoryConnectClient_24] heartbeat
+[2018.02.08-07.03.52:799][301]LogBlueprintUserMessages: [VictoryConnectClient_24] Hello
+[2018.02.08-07.03.53:293][327]LogBlueprintUserMessages: [VictoryConnectClient_24] 2 1 heartbeat no_data
+[2018.02.08-07.03.53:293][327]LogBlueprintUserMessages: [VictoryConnectClient_24] heartbeat
+[2018.02.08-07.03.53:293][327]LogBlueprintUserMessages: [VictoryConnectClient_24] Hello
+[2018.02.08-07.03.53:794][352]LogTemp: Display: Close Socket
+[2018.02.08-07.03.53:794][352]LogBlueprintUserMessages: [VictoryConnectClient_24] Connection close:127.0.0.1:9000
+[2018.02.08-07.03.57:034][554]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/VictoryConnectClient" FILE="E:/Programs/FRC/Projects/VictoryDashboard/VictoryDashboardUE/Content/Blueprints/VictoryConnectClient.uasset" SILENT=true
+[2018.02.08-07.03.57:089][554]LogSavePackage: Save=52.02ms
+[2018.02.08-07.03.57:089][554]LogSavePackage: Moving 'E:/Programs/FRC/Projects/VictoryDashboard/VictoryDashboardUE/Saved/VictoryConnectClient067A104D4D48BE117E2CF69CADA792BB.tmp' to 'E:/Programs/FRC/Projects/VictoryDashboard/VictoryDashboardUE/Content/Blueprints/VictoryConnectClient.uasset'
+[2018.02.08-07.03.57:097][554]LogSavePackage: Display: Finished SavePackage E:/Programs/FRC/Projects/VictoryDashboard/VictoryDashboardUE/Content/Blueprints/VictoryConnectClient.uasset
+[2018.02.08-07.04.20:103][ 84]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.08-07.04.20:117][ 84]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.08-07.04.20:118][ 84]PIE: New page: PIE session: Untitled_1 (Feb 7, 2018, 3:04:20 PM)
+[2018.02.08-07.04.20:118][ 84]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2018.02.08-07.04.20:122][ 84]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004607s)
+[2018.02.08-07.04.20:123][ 84]LogAIModule: Creating AISystem for world Untitled_1
+[2018.02.08-07.04.20:123][ 84]LogPlayLevel: PIE: World Init took: (0.000705s)
+[2018.02.08-07.04.20:123][ 84]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.005645s)
+[2018.02.08-07.04.20:152][ 84]LogInit: XAudio2 using 'Speakers (Logitech G933 Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.02.08-07.04.20:174][ 84]LogInit: FAudioDevice initialized.
+[2018.02.08-07.04.20:210][ 84]LogLoad: Game class is 'GameModeBase'
+[2018.02.08-07.04.20:211][ 84]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2018.02.07-23.04.20
+[2018.02.08-07.04.20:211][ 84]LogWorld: Bringing up level for play took: 0.000879
+[2018.02.08-07.04.20:213][ 84]LogTemp: Warning: Tread:127.0.0.1:9000
+[2018.02.08-07.04.20:213][ 84]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 -0.593
+[2018.02.08-07.04.20:216][ 84]LogBlueprintUserMessages: [VictoryConnectClient_24] Connection successful:127.0.0.1:9000
+[2018.02.08-07.04.20:216][ 84]LogBlueprintUserMessages: [VictoryConnectClient_24] 3 0 welcome no_data
+[2018.02.08-07.04.20:216][ 84]LogBlueprintUserMessages: [VictoryConnectClient_24] welcome
+[2018.02.08-07.04.20:724][139]LogBlueprintUserMessages: [VictoryConnectClient_24] 3 1 heartbeat no_data
+[2018.02.08-07.04.20:724][139]LogBlueprintUserMessages: [VictoryConnectClient_24] heartbeat
+[2018.02.08-07.04.20:724][139]LogBlueprintUserMessages: [VictoryConnectClient_24] Hello
+[2018.02.08-07.04.21:225][199]LogTemp: Display: Close Socket
+[2018.02.08-07.04.21:225][199]LogBlueprintUserMessages: [VictoryConnectClient_24] Connection close:127.0.0.1:9000
+[2018.02.08-07.04.26:114][576]LogSlate: Took 0.012064 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2018.02.08-07.04.28:217][774]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.08-07.04.28:233][774]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.08-07.04.28:233][774]PIE: New page: PIE session: Untitled_1 (Feb 7, 2018, 3:04:28 PM)
+[2018.02.08-07.04.28:233][774]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2018.02.08-07.04.28:239][774]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005449s)
+[2018.02.08-07.04.28:240][774]LogAIModule: Creating AISystem for world Untitled_1
+[2018.02.08-07.04.28:240][774]LogPlayLevel: PIE: World Init took: (0.000955s)
+[2018.02.08-07.04.28:240][774]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.007063s)
+[2018.02.08-07.04.28:265][774]LogInit: XAudio2 using 'Speakers (Logitech G933 Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.02.08-07.04.28:294][774]LogInit: FAudioDevice initialized.
+[2018.02.08-07.04.28:332][774]LogLoad: Game class is 'GameModeBase'
+[2018.02.08-07.04.28:334][774]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2018.02.07-23.04.28
+[2018.02.08-07.04.28:334][774]LogWorld: Bringing up level for play took: 0.001172
+[2018.02.08-07.04.28:336][774]LogTemp: Warning: Tread:127.0.0.1:9000
+[2018.02.08-07.04.28:337][774]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 -0.47
+[2018.02.08-07.04.28:341][774]LogBlueprintUserMessages: [VictoryConnectClient_24] Connection successful:127.0.0.1:9000
+[2018.02.08-07.04.28:342][774]LogBlueprintUserMessages: [VictoryConnectClient_24] 4 0 welcome no_data
+[2018.02.08-07.04.28:342][774]LogBlueprintUserMessages: [VictoryConnectClient_24] welcome
+[2018.02.08-07.04.28:850][829]LogBlueprintUserMessages: [VictoryConnectClient_24] 4 1 heartbeat no_data
+[2018.02.08-07.04.28:850][829]LogBlueprintUserMessages: [VictoryConnectClient_24] heartbeat
+[2018.02.08-07.04.28:850][829]LogBlueprintUserMessages: [VictoryConnectClient_24] Hello
+[2018.02.08-07.04.29:350][889]LogBlueprintUserMessages: [VictoryConnectClient_24] 4 1 heartbeat no_data
+[2018.02.08-07.04.29:350][889]LogBlueprintUserMessages: [VictoryConnectClient_24] heartbeat
+[2018.02.08-07.04.29:350][889]LogBlueprintUserMessages: [VictoryConnectClient_24] Hello
+[2018.02.08-07.04.29:850][949]LogTemp: Display: Close Socket
+[2018.02.08-07.04.29:850][949]LogBlueprintUserMessages: [VictoryConnectClient_24] Connection close:127.0.0.1:9000
+[2018.02.08-07.04.58:505][995]BlueprintLog: New page: Compile VictoryConnectClient
+[2018.02.08-07.05.01:584][243]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.08-07.05.01:613][243]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.08-07.05.01:614][243]PIE: New page: PIE session: Untitled_1 (Feb 7, 2018, 3:05:01 PM)
+[2018.02.08-07.05.01:614][243]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2018.02.08-07.05.01:619][243]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004987s)
+[2018.02.08-07.05.01:620][243]LogAIModule: Creating AISystem for world Untitled_1
+[2018.02.08-07.05.01:620][243]LogPlayLevel: PIE: World Init took: (0.000830s)
+[2018.02.08-07.05.01:620][243]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.006431s)
+[2018.02.08-07.05.01:645][243]LogInit: XAudio2 using 'Speakers (Logitech G933 Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.02.08-07.05.01:667][243]LogInit: FAudioDevice initialized.
+[2018.02.08-07.05.01:705][243]LogLoad: Game class is 'GameModeBase'
+[2018.02.08-07.05.01:706][243]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2018.02.07-23.05.01
+[2018.02.08-07.05.01:707][243]LogWorld: Bringing up level for play took: 0.001031
+[2018.02.08-07.05.01:709][243]LogTemp: Warning: Tread:127.0.0.1:9000
+[2018.02.08-07.05.01:709][243]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 0.903
+[2018.02.08-07.05.01:712][243]LogBlueprintUserMessages: [VictoryConnectClient_24] Connection successful:127.0.0.1:9000
+[2018.02.08-07.05.01:712][243]LogBlueprintUserMessages: [VictoryConnectClient_24] 5 0 welcome no_data
+[2018.02.08-07.05.01:712][243]LogBlueprintUserMessages: [VictoryConnectClient_24] welcome
+[2018.02.08-07.05.02:223][299]LogBlueprintUserMessages: [VictoryConnectClient_24] 5 1 heartbeat no_data
+[2018.02.08-07.05.02:223][299]LogBlueprintUserMessages: [VictoryConnectClient_24] heartbeat
+[2018.02.08-07.05.02:416][322]LogBlueprintUserMessages: [VictoryConnectClient_24] Hello
+[2018.02.08-07.05.02:722][359]LogBlueprintUserMessages: [VictoryConnectClient_24] 5 1 heartbeat no_data
+[2018.02.08-07.05.02:722][359]LogBlueprintUserMessages: [VictoryConnectClient_24] heartbeat
+[2018.02.08-07.05.02:916][382]LogBlueprintUserMessages: [VictoryConnectClient_24] Hello
+[2018.02.08-07.05.03:222][419]LogBlueprintUserMessages: [VictoryConnectClient_24] 5 1 heartbeat no_data
+[2018.02.08-07.05.03:222][419]LogBlueprintUserMessages: [VictoryConnectClient_24] heartbeat
+[2018.02.08-07.05.03:416][442]LogBlueprintUserMessages: [VictoryConnectClient_24] Hello
+[2018.02.08-07.05.03:721][479]LogBlueprintUserMessages: [VictoryConnectClient_24] 5 1 heartbeat no_data
+[2018.02.08-07.05.03:721][479]LogBlueprintUserMessages: [VictoryConnectClient_24] heartbeat
+[2018.02.08-07.05.03:916][502]LogBlueprintUserMessages: [VictoryConnectClient_24] Hello
+[2018.02.08-07.05.04:222][539]LogBlueprintUserMessages: [VictoryConnectClient_24] 5 1 heartbeat no_data
+[2018.02.08-07.05.04:222][539]LogBlueprintUserMessages: [VictoryConnectClient_24] heartbeat
+[2018.02.08-07.05.04:417][562]LogBlueprintUserMessages: [VictoryConnectClient_24] Hello
+[2018.02.08-07.05.04:719][598]LogBlueprintUserMessages: [VictoryConnectClient_24] 5 1 heartbeat no_data
+[2018.02.08-07.05.04:719][598]LogBlueprintUserMessages: [VictoryConnectClient_24] heartbeat
+[2018.02.08-07.05.04:911][621]LogBlueprintUserMessages: [VictoryConnectClient_24] Hello
+[2018.02.08-07.05.05:225][659]LogBlueprintUserMessages: [VictoryConnectClient_24] 5 1 heartbeat no_data
+[2018.02.08-07.05.05:225][659]LogBlueprintUserMessages: [VictoryConnectClient_24] heartbeat
+[2018.02.08-07.05.05:420][682]LogBlueprintUserMessages: [VictoryConnectClient_24] Hello
+[2018.02.08-07.05.05:721][718]LogBlueprintUserMessages: [VictoryConnectClient_24] 5 1 heartbeat no_data
+[2018.02.08-07.05.05:721][718]LogBlueprintUserMessages: [VictoryConnectClient_24] heartbeat
+[2018.02.08-07.05.05:914][741]LogBlueprintUserMessages: [VictoryConnectClient_24] Hello
+[2018.02.08-07.05.06:220][776]LogBlueprintUserMessages: [VictoryConnectClient_24] 5 1 heartbeat no_data
+[2018.02.08-07.05.06:220][776]LogBlueprintUserMessages: [VictoryConnectClient_24] heartbeat
+[2018.02.08-07.05.06:415][799]LogBlueprintUserMessages: [VictoryConnectClient_24] Hello
+[2018.02.08-07.05.06:724][836]LogBlueprintUserMessages: [VictoryConnectClient_24] 5 1 heartbeat no_data
+[2018.02.08-07.05.06:724][836]LogBlueprintUserMessages: [VictoryConnectClient_24] heartbeat
+[2018.02.08-07.05.06:918][859]LogBlueprintUserMessages: [VictoryConnectClient_24] Hello
+[2018.02.08-07.05.07:224][896]LogBlueprintUserMessages: [VictoryConnectClient_24] 5 1 heartbeat no_data
+[2018.02.08-07.05.07:225][896]LogBlueprintUserMessages: [VictoryConnectClient_24] heartbeat
+[2018.02.08-07.05.07:418][919]LogBlueprintUserMessages: [VictoryConnectClient_24] Hello
+[2018.02.08-07.05.07:724][956]LogBlueprintUserMessages: [VictoryConnectClient_24] 5 1 heartbeat no_data
+[2018.02.08-07.05.07:724][956]LogBlueprintUserMessages: [VictoryConnectClient_24] heartbeat
+[2018.02.08-07.05.07:918][979]LogBlueprintUserMessages: [VictoryConnectClient_24] Hello
+[2018.02.08-07.05.08:224][ 16]LogBlueprintUserMessages: [VictoryConnectClient_24] 5 1 heartbeat no_data
+[2018.02.08-07.05.08:225][ 16]LogBlueprintUserMessages: [VictoryConnectClient_24] heartbeat
+[2018.02.08-07.05.08:419][ 39]LogBlueprintUserMessages: [VictoryConnectClient_24] Hello
+[2018.02.08-07.05.08:725][ 76]LogBlueprintUserMessages: [VictoryConnectClient_24] 5 1 heartbeat no_data
+[2018.02.08-07.05.08:726][ 76]LogBlueprintUserMessages: [VictoryConnectClient_24] heartbeat
+[2018.02.08-07.05.08:919][ 99]LogBlueprintUserMessages: [VictoryConnectClient_24] Hello
+[2018.02.08-07.05.09:026][105]LogTemp: Display: Close Socket
+[2018.02.08-07.05.12:047][309]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/VictoryConnectClient" FILE="E:/Programs/FRC/Projects/VictoryDashboard/VictoryDashboardUE/Content/Blueprints/VictoryConnectClient.uasset" SILENT=true
+[2018.02.08-07.05.12:103][309]LogSavePackage: Save=53.28ms
+[2018.02.08-07.05.12:104][309]LogSavePackage: Moving 'E:/Programs/FRC/Projects/VictoryDashboard/VictoryDashboardUE/Saved/VictoryConnectClientD318FA684FC6B28C50FED38F32BB2B28.tmp' to 'E:/Programs/FRC/Projects/VictoryDashboard/VictoryDashboardUE/Content/Blueprints/VictoryConnectClient.uasset'
+[2018.02.08-07.05.12:108][309]LogSavePackage: Display: Finished SavePackage E:/Programs/FRC/Projects/VictoryDashboard/VictoryDashboardUE/Content/Blueprints/VictoryConnectClient.uasset
+[2018.02.08-07.05.28:967][861]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/VictoryConnectClient" FILE="E:/Programs/FRC/Projects/VictoryDashboard/VictoryDashboardUE/Content/Blueprints/VictoryConnectClient.uasset" SILENT=true
+[2018.02.08-07.05.29:031][861]LogSavePackage: Save=55.33ms
+[2018.02.08-07.05.29:031][861]LogSavePackage: Moving 'E:/Programs/FRC/Projects/VictoryDashboard/VictoryDashboardUE/Saved/VictoryConnectClientC1AD2A4E4A2F270A7253B3A8B3CDD8D6.tmp' to 'E:/Programs/FRC/Projects/VictoryDashboard/VictoryDashboardUE/Content/Blueprints/VictoryConnectClient.uasset'
+[2018.02.08-07.05.29:036][861]LogSavePackage: Display: Finished SavePackage E:/Programs/FRC/Projects/VictoryDashboard/VictoryDashboardUE/Content/Blueprints/VictoryConnectClient.uasset
+[2018.02.08-07.05.29:832][934]BlueprintLog: New page: Compile VictoryConnectClient
+[2018.02.08-07.05.52:545][ 70]Cmd: QUIT_EDITOR
+[2018.02.08-07.05.53:064][ 70]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.02.08-07.05.53:079][ 70]LogExit: Preparing to exit.
+[2018.02.08-07.05.53:921][ 70]LogExit: Editor shut down
+[2018.02.08-07.05.53:925][ 70]LogExit: Transaction tracking system shut down
+[2018.02.08-07.05.54:085][ 70]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.02.08-07.05.54:085][ 70]LogDirectoryWatcher: A directory notification for 'E:/Programs/FRC/Projects/VictoryDashboard/VictoryDashboardUE/Content/' was aborted.
+[2018.02.08-07.05.54:085][ 70]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2018.02.08-07.05.54:086][ 70]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Media/MediaCompositing/Content/' was aborted.
+[2018.02.08-07.05.54:086][ 70]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2018.02.08-07.05.54:086][ 70]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.02.08-07.05.54:086][ 70]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.02.08-07.05.54:172][ 70]LogExit: Object subsystem successfully closed.
+[2018.02.08-07.05.54:196][ 70]LogD3D11RHI: Shutdown
+[2018.02.08-07.05.54:196][ 70]LogD3D11RHI: CleanupD3DDevice
+[2018.02.08-07.05.54:198][ 70]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.02.08-07.05.54:208][ 70]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (558)
+[2018.02.08-07.05.54:208][ 70]LogModuleManager: Shutting down and abandoning module BlueprintGraph (556)
+[2018.02.08-07.05.54:208][ 70]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (554)
+[2018.02.08-07.05.54:208][ 70]LogModuleManager: Shutting down and abandoning module DesktopPlatform (552)
+[2018.02.08-07.05.54:208][ 70]LogModuleManager: Shutting down and abandoning module SceneOutliner (550)
+[2018.02.08-07.05.54:208][ 70]LogModuleManager: Shutting down and abandoning module AddContentDialog (548)
+[2018.02.08-07.05.54:209][ 70]LogDirectoryWatcher: A directory notification for 'D:/EpicGames/UE_4.18/FeaturePacks/' was aborted.
+[2018.02.08-07.05.54:209][ 70]LogModuleManager: Shutting down and abandoning module WidgetCarousel (547)
+[2018.02.08-07.05.54:209][ 70]LogModuleManager: Shutting down and abandoning module EditorWidgets (544)
+[2018.02.08-07.05.54:209][ 70]LogModuleManager: Shutting down and abandoning module CollectionManager (542)
+[2018.02.08-07.05.54:209][ 70]LogDirectoryWatcher: A directory notification for 'E:/Programs/FRC/Projects/VictoryDashboard/VictoryDashboardUE/Content/Collections/' was aborted.
+[2018.02.08-07.05.54:210][ 70]LogDirectoryWatcher: A directory notification for 'E:/Programs/FRC/Projects/VictoryDashboard/VictoryDashboardUE/Content/Developers/Victo/Collections/' was aborted.
+[2018.02.08-07.05.54:210][ 70]LogDirectoryWatcher: A directory notification for 'E:/Programs/FRC/Projects/VictoryDashboard/VictoryDashboardUE/Saved/Collections/' was aborted.
+[2018.02.08-07.05.54:210][ 70]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (540)
+[2018.02.08-07.05.54:210][ 70]LogModuleManager: Shutting down and abandoning module StatsViewer (538)
+[2018.02.08-07.05.54:210][ 70]LogModuleManager: Shutting down and abandoning module FoliageEdit (536)
+[2018.02.08-07.05.54:210][ 70]LogModuleManager: Shutting down and abandoning module LandscapeEditor (534)
+[2018.02.08-07.05.54:210][ 70]LogModuleManager: Shutting down and abandoning module MeshPaintMode (532)
+[2018.02.08-07.05.54:210][ 70]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (530)
+[2018.02.08-07.05.54:210][ 70]LogModuleManager: Shutting down and abandoning module ActorPickerMode (528)
+[2018.02.08-07.05.54:210][ 70]LogModuleManager: Shutting down and abandoning module GeometryMode (526)
+[2018.02.08-07.05.54:210][ 70]LogModuleManager: Shutting down and abandoning module TextureAlignMode (524)
+[2018.02.08-07.05.54:210][ 70]LogModuleManager: Shutting down and abandoning module BspMode (522)
+[2018.02.08-07.05.54:210][ 70]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (520)
+[2018.02.08-07.05.54:210][ 70]LogModuleManager: Shutting down and abandoning module HardwareSurvey (518)
+[2018.02.08-07.05.54:210][ 70]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (516)
+[2018.02.08-07.05.54:210][ 70]LogModuleManager: Shutting down and abandoning module AutomationWorker (514)
+[2018.02.08-07.05.54:210][ 70]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (512)
+[2018.02.08-07.05.54:210][ 70]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (510)
+[2018.02.08-07.05.54:210][ 70]LogModuleManager: Shutting down and abandoning module PlacementMode (509)
+[2018.02.08-07.05.54:210][ 70]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (506)
+[2018.02.08-07.05.54:210][ 70]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (504)
+[2018.02.08-07.05.54:210][ 70]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (502)
+[2018.02.08-07.05.54:210][ 70]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (500)
+[2018.02.08-07.05.54:210][ 70]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (498)
+[2018.02.08-07.05.54:210][ 70]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (496)
+[2018.02.08-07.05.54:210][ 70]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (494)
+[2018.02.08-07.05.54:211][ 70]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (492)
+[2018.02.08-07.05.54:211][ 70]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (490)
+[2018.02.08-07.05.54:211][ 70]LogModuleManager: Shutting down and abandoning module CharacterAI (488)
+[2018.02.08-07.05.54:211][ 70]LogModuleManager: Shutting down and abandoning module AudioCapture (486)
+[2018.02.08-07.05.54:211][ 70]LogModuleManager: Shutting down and abandoning module SequenceRecorder (485)
+[2018.02.08-07.05.54:211][ 70]LogModuleManager: Shutting down and abandoning module SmartSnapping (482)
+[2018.02.08-07.05.54:211][ 70]LogModuleManager: Shutting down and abandoning module SessionServices (480)
+[2018.02.08-07.05.54:211][ 70]LogModuleManager: Shutting down and abandoning module ViewportSnapping (478)
+[2018.02.08-07.05.54:211][ 70]LogModuleManager: Shutting down and abandoning module ViewportInteraction (476)
+[2018.02.08-07.05.54:211][ 70]LogModuleManager: Shutting down and abandoning module ClothPainter (474)
+[2018.02.08-07.05.54:211][ 70]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (473)
+[2018.02.08-07.05.54:211][ 70]LogModuleManager: Shutting down and abandoning module LogVisualizer (470)
+[2018.02.08-07.05.54:211][ 70]LogModuleManager: Shutting down and abandoning module IntroTutorials (468)
+[2018.02.08-07.05.54:211][ 70]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (467)
+[2018.02.08-07.05.54:211][ 70]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (464)
+[2018.02.08-07.05.54:211][ 70]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (462)
+[2018.02.08-07.05.54:211][ 70]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (460)
+[2018.02.08-07.05.54:211][ 70]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (459)
+[2018.02.08-07.05.54:367][ 70]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (456)
+[2018.02.08-07.05.54:367][ 70]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (454)
+[2018.02.08-07.05.54:367][ 70]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (452)
+[2018.02.08-07.05.54:367][ 70]LogModuleManager: Shutting down and abandoning module InputBindingEditor (450)
+[2018.02.08-07.05.54:367][ 70]LogModuleManager: Shutting down and abandoning module MergeActors (448)
+[2018.02.08-07.05.54:367][ 70]LogModuleManager: Shutting down and abandoning module SizeMap (446)
+[2018.02.08-07.05.54:367][ 70]LogModuleManager: Shutting down and abandoning module TreeMap (444)
+[2018.02.08-07.05.54:367][ 70]LogModuleManager: Shutting down and abandoning module ReferenceViewer (442)
+[2018.02.08-07.05.54:367][ 70]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (440)
+[2018.02.08-07.05.54:368][ 70]LogModuleManager: Shutting down and abandoning module LocalizationService (439)
+[2018.02.08-07.05.54:368][ 70]LogModuleManager: Shutting down and abandoning module HardwareTargeting (436)
+[2018.02.08-07.05.54:368][ 70]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (434)
+[2018.02.08-07.05.54:368][ 70]LogModuleManager: Shutting down and abandoning module UndoHistory (432)
+[2018.02.08-07.05.54:368][ 70]LogModuleManager: Shutting down and abandoning module XmlParser (430)
+[2018.02.08-07.05.54:368][ 70]LogModuleManager: Shutting down and abandoning module Blutility (428)
+[2018.02.08-07.05.54:368][ 70]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (426)
+[2018.02.08-07.05.54:368][ 70]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (425)
+[2018.02.08-07.05.54:368][ 70]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (422)
+[2018.02.08-07.05.54:368][ 70]LogModuleManager: Shutting down and abandoning module SettingsEditor (420)
+[2018.02.08-07.05.54:368][ 70]LogModuleManager: Shutting down and abandoning module ProjectLauncher (418)
+[2018.02.08-07.05.54:368][ 70]LogModuleManager: Shutting down and abandoning module SessionFrontend (416)
+[2018.02.08-07.05.54:368][ 70]LogModuleManager: Shutting down and abandoning module ProfilerClient (414)
+[2018.02.08-07.05.54:368][ 70]LogModuleManager: Shutting down and abandoning module DeviceManager (412)
+[2018.02.08-07.05.54:368][ 70]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (411)
+[2018.02.08-07.05.54:422][ 70]LogModuleManager: Shutting down and abandoning module AutomationController (408)
+[2018.02.08-07.05.54:422][ 70]LogModuleManager: Shutting down and abandoning module AutomationWindow (406)
+[2018.02.08-07.05.54:422][ 70]LogModuleManager: Shutting down and abandoning module Layers (404)
+[2018.02.08-07.05.54:422][ 70]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (402)
+[2018.02.08-07.05.54:422][ 70]LogModuleManager: Shutting down and abandoning module DetailCustomizations (400)
+[2018.02.08-07.05.54:422][ 70]LogModuleManager: Shutting down and abandoning module PackagesDialog (398)
+[2018.02.08-07.05.54:422][ 70]LogModuleManager: Shutting down and abandoning module Persona (396)
+[2018.02.08-07.05.54:422][ 70]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (395)
+[2018.02.08-07.05.54:422][ 70]LogModuleManager: Shutting down and abandoning module AnimGraph (393)
+[2018.02.08-07.05.54:422][ 70]LogModuleManager: Shutting down and abandoning module Kismet (390)
+[2018.02.08-07.05.54:439][ 70]LogModuleManager: Shutting down and abandoning module ClassViewer (388)
+[2018.02.08-07.05.54:440][ 70]LogModuleManager: Shutting down and abandoning module Toolbox (386)
+[2018.02.08-07.05.54:440][ 70]LogModuleManager: Shutting down and abandoning module ModuleUI (384)
+[2018.02.08-07.05.54:440][ 70]LogModuleManager: Shutting down and abandoning module MovieSceneTools (382)
+[2018.02.08-07.05.54:440][ 70]LogModuleManager: Shutting down and abandoning module OutputLog (380)
+[2018.02.08-07.05.54:440][ 70]LogModuleManager: Shutting down and abandoning module GammaUI (378)
+[2018.02.08-07.05.54:440][ 70]LogModuleManager: Shutting down and abandoning module Documentation (376)
+[2018.02.08-07.05.54:440][ 70]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (374)
+[2018.02.08-07.05.54:440][ 70]LogModuleManager: Shutting down and abandoning module MovieScene (372)
+[2018.02.08-07.05.54:440][ 70]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (370)
+[2018.02.08-07.05.54:440][ 70]LogModuleManager: Shutting down and abandoning module LauncherPlatform (368)
+[2018.02.08-07.05.54:440][ 70]LogModuleManager: Shutting down and abandoning module AnalyticsET (366)
+[2018.02.08-07.05.54:440][ 70]LogModuleManager: Shutting down and abandoning module PortalServices (364)
+[2018.02.08-07.05.54:440][ 70]LogModuleManager: Shutting down and abandoning module PortalRpc (362)
+[2018.02.08-07.05.54:440][ 70]LogModuleManager: Shutting down and abandoning module MessagingRpc (360)
+[2018.02.08-07.05.54:440][ 70]LogModuleManager: Shutting down and abandoning module AIModule (358)
+[2018.02.08-07.05.54:440][ 70]LogModuleManager: Shutting down and abandoning module GameplayDebugger (357)
+[2018.02.08-07.05.54:440][ 70]LogModuleManager: Shutting down and abandoning module AITestSuite (355)
+[2018.02.08-07.05.54:440][ 70]LogModuleManager: Shutting down and abandoning module ProfilerService (352)
+[2018.02.08-07.05.54:604][ 70]LogModuleManager: Shutting down and abandoning module TaskGraph (350)
+[2018.02.08-07.05.54:604][ 70]LogModuleManager: Shutting down and abandoning module SteamVRController (348)
+[2018.02.08-07.05.54:604][ 70]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (346)
+[2018.02.08-07.05.54:604][ 70]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (344)
+[2018.02.08-07.05.54:604][ 70]LogModuleManager: Shutting down and abandoning module OculusInput (342)
+[2018.02.08-07.05.54:604][ 70]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (340)
+[2018.02.08-07.05.54:605][ 70]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (338)
+[2018.02.08-07.05.54:605][ 70]LogModuleManager: Shutting down and abandoning module CableComponent (336)
+[2018.02.08-07.05.54:605][ 70]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (334)
+[2018.02.08-07.05.54:605][ 70]LogModuleManager: Shutting down and abandoning module AndroidPermission (332)
+[2018.02.08-07.05.54:605][ 70]LogModuleManager: Shutting down and abandoning module ActorSequence (328)
+[2018.02.08-07.05.54:605][ 70]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (326)
+[2018.02.08-07.05.54:605][ 70]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (324)
+[2018.02.08-07.05.54:605][ 70]LogModuleManager: Shutting down and abandoning module MediaCompositing (322)
+[2018.02.08-07.05.54:605][ 70]LogModuleManager: Shutting down and abandoning module HTML5Networking (320)
+[2018.02.08-07.05.54:605][ 70]LogModuleManager: Shutting down and abandoning module AlembicImporter (318)
+[2018.02.08-07.05.54:605][ 70]LogModuleManager: Shutting down and abandoning module AlembicLibrary (317)
+[2018.02.08-07.05.54:605][ 70]LogModuleManager: Shutting down and abandoning module GeometryCache (316)
+[2018.02.08-07.05.54:605][ 70]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (315)
+[2018.02.08-07.05.54:605][ 70]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (310)
+[2018.02.08-07.05.54:605][ 70]LogModuleManager: Shutting down and abandoning module PluginBrowser (308)
+[2018.02.08-07.05.54:605][ 70]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (306)
+[2018.02.08-07.05.54:605][ 70]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (304)
+[2018.02.08-07.05.54:605][ 70]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (302)
+[2018.02.08-07.05.54:605][ 70]LogModuleManager: Shutting down and abandoning module UObjectPlugin (300)
+[2018.02.08-07.05.54:605][ 70]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (298)
+[2018.02.08-07.05.54:605][ 70]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (296)
+[2018.02.08-07.05.54:605][ 70]LogModuleManager: Shutting down and abandoning module GitSourceControl (294)
+[2018.02.08-07.05.54:605][ 70]LogModuleManager: Shutting down and abandoning module SourceControl (293)
+[2018.02.08-07.05.54:606][ 70]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (290)
+[2018.02.08-07.05.54:606][ 70]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (288)
+[2018.02.08-07.05.54:606][ 70]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (286)
+[2018.02.08-07.05.54:606][ 70]LogModuleManager: Shutting down and abandoning module Paper2DEditor (284)
+[2018.02.08-07.05.54:606][ 70]LogModuleManager: Shutting down and abandoning module MeshPaint (283)
+[2018.02.08-07.05.54:606][ 70]LogModuleManager: Shutting down and abandoning module LevelEditor (281)
+[2018.02.08-07.05.54:607][ 70]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (280)
+[2018.02.08-07.05.54:607][ 70]LogModuleManager: Shutting down and abandoning module MainFrame (278)
+[2018.02.08-07.05.54:607][ 70]LogModuleManager: Shutting down and abandoning module HotReload (277)
+[2018.02.08-07.05.54:607][ 70]LogDirectoryWatcher: A directory notification for 'E:/Programs/FRC/Projects/VictoryDashboard/VictoryDashboardUE/Binaries/Win64' was aborted.
+[2018.02.08-07.05.54:607][ 70]LogModuleManager: Shutting down and abandoning module VictoryDashboardUE (272)
+[2018.02.08-07.05.54:608][ 70]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (270)
+[2018.02.08-07.05.54:608][ 70]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (268)
+[2018.02.08-07.05.54:608][ 70]LogModuleManager: Shutting down and abandoning module PhysXVehicles (266)
+[2018.02.08-07.05.54:608][ 70]LogModuleManager: Shutting down and abandoning module OculusEditor (264)
+[2018.02.08-07.05.54:608][ 70]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (262)
+[2018.02.08-07.05.54:608][ 70]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (260)
+[2018.02.08-07.05.54:608][ 70]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (258)
+[2018.02.08-07.05.54:608][ 70]LogModuleManager: Shutting down and abandoning module UdpMessaging (256)
+[2018.02.08-07.05.54:709][ 70]LogModuleManager: Shutting down and abandoning module TcpMessaging (254)
+[2018.02.08-07.05.54:853][ 70]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (252)
+[2018.02.08-07.05.54:853][ 70]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (250)
+[2018.02.08-07.05.54:853][ 70]LogModuleManager: Shutting down and abandoning module FacialAnimation (248)
+[2018.02.08-07.05.54:853][ 70]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (246)
+[2018.02.08-07.05.54:853][ 70]LogModuleManager: Shutting down and abandoning module GraphEditor (245)
+[2018.02.08-07.05.54:854][ 70]LogModuleManager: Shutting down and abandoning module ContentBrowser (243)
+[2018.02.08-07.05.54:855][ 70]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (240)
+[2018.02.08-07.05.54:855][ 70]LogModuleManager: Shutting down and abandoning module Paper2D (238)
+[2018.02.08-07.05.54:855][ 70]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (236)
+[2018.02.08-07.05.54:855][ 70]LogModuleManager: Shutting down and abandoning module WmfMedia (234)
+[2018.02.08-07.05.54:855][ 70]LogModuleManager: Shutting down and abandoning module ImgMedia (232)
+[2018.02.08-07.05.54:855][ 70]LogModuleManager: Shutting down and abandoning module SocketClient (230)
+[2018.02.08-07.05.54:855][ 70]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2018.02.08-07.05.54:855][ 70]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2018.02.08-07.05.54:855][ 70]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2018.02.08-07.05.54:855][ 70]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2018.02.08-07.05.54:855][ 70]LogModuleManager: Shutting down and abandoning module Media (221)
+[2018.02.08-07.05.54:861][ 70]LogModuleManager: Shutting down and abandoning module Overlay (218)
+[2018.02.08-07.05.54:861][ 70]LogModuleManager: Shutting down and abandoning module OverlayEditor (217)
+[2018.02.08-07.05.54:861][ 70]LogModuleManager: Shutting down and abandoning module VREditor (214)
+[2018.02.08-07.05.54:861][ 70]LogModuleManager: Shutting down and abandoning module StringTableEditor (212)
+[2018.02.08-07.05.54:861][ 70]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (210)
+[2018.02.08-07.05.54:861][ 70]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (208)
+[2018.02.08-07.05.54:861][ 70]LogModuleManager: Shutting down and abandoning module FunctionalTesting (206)
+[2018.02.08-07.05.54:861][ 70]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (204)
+[2018.02.08-07.05.54:861][ 70]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (203)
+[2018.02.08-07.05.54:861][ 70]LogModuleManager: Shutting down and abandoning module UMG (200)
+[2018.02.08-07.05.54:861][ 70]LogModuleManager: Shutting down and abandoning module UMGEditor (199)
+[2018.02.08-07.05.54:862][ 70]LogModuleManager: Shutting down and abandoning module Sequencer (198)
+[2018.02.08-07.05.54:862][ 70]LogModuleManager: Shutting down and abandoning module MessageLog (195)
+[2018.02.08-07.05.54:862][ 70]LogModuleManager: Shutting down and abandoning module SlateReflector (190)
+[2018.02.08-07.05.54:862][ 70]LogModuleManager: Shutting down and abandoning module Slate (188)
+[2018.02.08-07.05.54:862][ 70]LogModuleManager: Shutting down and abandoning module EditorStyle (186)
+[2018.02.08-07.05.54:864][ 70]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2018.02.08-07.05.54:864][ 70]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2018.02.08-07.05.54:864][ 70]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2018.02.08-07.05.54:864][ 70]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2018.02.08-07.05.54:864][ 70]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2018.02.08-07.05.54:864][ 70]LogModuleManager: Shutting down and abandoning module Core (172)
+[2018.02.08-07.05.54:864][ 70]LogModuleManager: Shutting down and abandoning module LevelSequence (168)
+[2018.02.08-07.05.54:864][ 70]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (166)
+[2018.02.08-07.05.54:864][ 70]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2018.02.08-07.05.54:864][ 70]LogModuleManager: Shutting down and abandoning module MeshUtilities (162)
+[2018.02.08-07.05.54:864][ 70]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (161)
+[2018.02.08-07.05.54:864][ 70]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (160)
+[2018.02.08-07.05.54:864][ 70]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (159)
+[2018.02.08-07.05.54:864][ 70]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (157)
+[2018.02.08-07.05.54:864][ 70]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (155)
+[2018.02.08-07.05.54:864][ 70]LogModuleManager: Shutting down and abandoning module MaterialBaking (151)
+[2018.02.08-07.05.54:865][ 70]LogModuleManager: Shutting down and abandoning module DerivedDataCache (148)
+[2018.02.08-07.05.54:903][ 70]LogDerivedDataCache: Shutdown
+[2018.02.08-07.05.54:903][ 70]LogModuleManager: Shutting down and abandoning module TargetPlatform (146)
+[2018.02.08-07.05.54:903][ 70]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (145)
+[2018.02.08-07.05.54:903][ 70]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (143)
+[2018.02.08-07.05.54:903][ 70]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (141)
+[2018.02.08-07.05.54:903][ 70]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (139)
+[2018.02.08-07.05.54:903][ 70]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (137)
+[2018.02.08-07.05.54:903][ 70]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (135)
+[2018.02.08-07.05.54:904][ 70]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (133)
+[2018.02.08-07.05.54:904][ 70]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (131)
+[2018.02.08-07.05.54:904][ 70]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (129)
+[2018.02.08-07.05.54:904][ 70]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (127)
+[2018.02.08-07.05.54:904][ 70]LogModuleManager: Shutting down and abandoning module ImageWrapper (126)
+[2018.02.08-07.05.54:904][ 70]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (123)
+[2018.02.08-07.05.54:904][ 70]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (121)
+[2018.02.08-07.05.54:904][ 70]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (119)
+[2018.02.08-07.05.54:904][ 70]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (117)
+[2018.02.08-07.05.54:904][ 70]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (115)
+[2018.02.08-07.05.54:904][ 70]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (113)
+[2018.02.08-07.05.54:904][ 70]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (111)
+[2018.02.08-07.05.54:904][ 70]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (109)
+[2018.02.08-07.05.54:904][ 70]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (107)
+[2018.02.08-07.05.54:904][ 70]LogModuleManager: Shutting down and abandoning module Messaging (105)
+[2018.02.08-07.05.54:904][ 70]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (103)
+[2018.02.08-07.05.54:904][ 70]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (101)
+[2018.02.08-07.05.54:904][ 70]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (99)
+[2018.02.08-07.05.54:904][ 70]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (97)
+[2018.02.08-07.05.54:904][ 70]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (95)
+[2018.02.08-07.05.54:904][ 70]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (93)
+[2018.02.08-07.05.54:904][ 70]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (91)
+[2018.02.08-07.05.54:904][ 70]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (89)
+[2018.02.08-07.05.54:904][ 70]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (87)
+[2018.02.08-07.05.54:904][ 70]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (85)
+[2018.02.08-07.05.54:904][ 70]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (83)
+[2018.02.08-07.05.54:904][ 70]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (81)
+[2018.02.08-07.05.54:904][ 70]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (79)
+[2018.02.08-07.05.54:904][ 70]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (77)
+[2018.02.08-07.05.54:904][ 70]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (75)
+[2018.02.08-07.05.54:904][ 70]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (73)
+[2018.02.08-07.05.54:904][ 70]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (71)
+[2018.02.08-07.05.54:904][ 70]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (69)
+[2018.02.08-07.05.54:904][ 70]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (67)
+[2018.02.08-07.05.54:904][ 70]LogModuleManager: Shutting down and abandoning module InputCore (64)
+[2018.02.08-07.05.54:904][ 70]LogModuleManager: Shutting down and abandoning module Settings (62)
+[2018.02.08-07.05.54:904][ 70]LogModuleManager: Shutting down and abandoning module PhysXCooking (60)
+[2018.02.08-07.05.54:904][ 70]LogModuleManager: Shutting down and abandoning module SteamVR (58)
+[2018.02.08-07.05.54:904][ 70]LogModuleManager: Shutting down and abandoning module OculusHMD (56)
+[2018.02.08-07.05.54:904][ 70]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (54)
+[2018.02.08-07.05.54:904][ 70]LogModuleManager: Shutting down and abandoning module AppleARKit (52)
+[2018.02.08-07.05.54:904][ 70]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2018.02.08-07.05.54:904][ 70]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.02.08-07.05.54:904][ 70]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.02.08-07.05.54:904][ 70]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.02.08-07.05.54:905][ 70]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.02.08-07.05.54:905][ 70]LogHttp: Display: Http module shutting down, but needs to wait on 2 outstanding Http requests:
+[2018.02.08-07.05.54:905][ 70]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BDEEB7958-4715-3AE8-FB69-D39F736300F6%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.3-3832480%2B%2B%2BUE4%2BRelease-4.18&UserID=1b97bc5c48d2bd6562901dbd45f0e700%7Ce0cc89a489f74a7d95d2eeb81f40e808%7C914c5df9-16fa-4701-91df-d03592fc5f45&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.02.08-07.05.54:905][ 70]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BDEEB7958-4715-3AE8-FB69-D39F736300F6%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.3-3832480%2B%2B%2BUE4%2BRelease-4.18&UserID=1b97bc5c48d2bd6562901dbd45f0e700%7Ce0cc89a489f74a7d95d2eeb81f40e808%7C914c5df9-16fa-4701-91df-d03592fc5f45&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.02.08-07.05.54:919][ 70]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.02.08-07.05.54:921][ 70]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.02.08-07.05.54:921][ 70]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.02.08-07.05.54:921][ 70]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.02.08-07.05.54:921][ 70]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.02.08-07.05.54:921][ 70]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.02.08-07.05.54:921][ 70]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.02.08-07.05.54:921][ 70]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.02.08-07.05.54:923][ 70]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.02.08-07.05.54:923][ 70]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.02.08-07.05.54:923][ 70]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.02.08-07.05.54:923][ 70]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.02.08-07.05.54:923][ 70]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.02.08-07.05.54:923][ 70]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.02.08-07.05.54:923][ 70]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.02.08-07.05.54:923][ 70]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.02.08-07.05.54:923][ 70]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.02.08-07.05.54:923][ 70]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.02.08-07.05.54:923][ 70]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.02.08-07.05.54:925][ 70]LogExit: Exiting.
+[2018.02.08-07.05.54:937][ 70]Log file closed, 02/07/18 23:05:54
