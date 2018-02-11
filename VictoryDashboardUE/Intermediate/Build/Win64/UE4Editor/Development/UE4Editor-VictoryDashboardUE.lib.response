@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-VictoryDashboardUE.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\EpicGames\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"E:\Programs\FRC\Projects\VictoryDashboard\VictoryDashboardUE\Intermediate\Build\Win64\UE4Editor\Development\VictoryDashboardUE\VictoryDashboardUE.cpp.obj"
+"D:\EpicGames\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\VictoryDashboardUE\PCLaunch.rc.res"
+"D:\EpicGames\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+/OUT:"E:\Programs\FRC\Projects\VictoryDashboard\VictoryDashboardUE\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-VictoryDashboardUE.lib"
