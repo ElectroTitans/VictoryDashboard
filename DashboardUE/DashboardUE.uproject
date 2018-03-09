@@ -2,5 +2,16 @@
 	"FileVersion": 3,
 	"EngineAssociation": "4.18",
 	"Category": "",
-	"Description": ""
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "SocketClient",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/5d4ddd5493ce4d2295ef9be6c67eff82"
+		},
+		{
+			"Name": "WebBrowserWidget",
+			"Enabled": true
+		}
+	]
 }
