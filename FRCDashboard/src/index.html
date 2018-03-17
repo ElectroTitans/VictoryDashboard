@@ -4,7 +4,9 @@
 <head>
     <meta charset="utf-8">
     <title>FRC Dashboard</title>
+ 
     <link href="css/style.css" rel="stylesheet">
+ 
 </head>
 
 <body>
@@ -27,15 +29,19 @@
             <text id="gyro-number" x="90" y="115">0º</text>
         </svg>
         <!-- Example robot diagram, arm moves when encoder value changes -->
-        <svg id="robot-diagram" width="332" height="450">
-            <text x="40" y="340">Example SVG Robot Diagram</text>
-            <rect x="75" y="360" width="230" height="40"></rect>
-            <rect x="85" y="370" width="210" height="40"></rect>
-            <rect id="robot-arm" x="5" y="375" width="80" height="10"></rect>
+        <svg id="robot-diagram-side" width="332" height="450">
+            <text x="40" y="80">Titan Heavy Side View</text>
+            <rect x="120" y="100" width="25" height="300"></rect>
+           
+            <rect x="250" y="310" width="10" height="70"></rect>
+
+            <rect x="30" y="300" width="90" height="20" id="robot-arm"></rect>
+
             <circle cx="100" cy="410" r="25"></circle>
+            <circle cx="180" cy="410" r="20"></circle>
             <circle cx="260" cy="410" r="25"></circle>
             <rect x="60" y="380" width="250" height="30"></rect>
-            <text id="team" x="185" y="405" text-anchor="middle">####</text>
+            <text id="team" x="185" y="405" text-anchor="middle">4056</text>
         </svg>
     </article>
     <!-- The sidebar of the dashboard. Designed for smaller control elements like selection boxes and small buttons. -->
@@ -43,8 +49,30 @@
         <!-- Example button which toggles /SmartDashboard/exampleValue NetworkTables value.
             The <p> below then says the value. -->
         <div id="example-section">
-            <button id="example-button">Change example value</button>
-            <p id="example-readout">Value is undefined</p>
+            <h3>Encoder Info</h3>
+            <hr/>
+            <p id="example-readout">Left Drive: 13</p>
+            <p id="example-readout">Right Drive: 123</p>
+            <p id="example-readout">Lift: 5</p>
+            
+        </div>
+
+        <div id="example-section">
+            <h3>Encoder Info</h3>
+            <hr/>
+            <p id="example-readout">Left Drive: 13</p>
+            <p id="example-readout">Right Drive: 123</p>
+            <p id="example-readout">Lift: 5</p>
+            
+        </div>
+
+        <div id="example-section">
+            <h3>Encoder Info</h3>
+            <hr/>
+            <p id="example-readout">Left Drive: 13</p>
+            <p id="example-readout">Right Drive: 123</p>
+            <p id="example-readout">Lift: 5</p>
+            
         </div>
         <!-- Autonomous selector -->
         <div class="select-container">

@@ -1,4 +1,5 @@
-let address = document.getElementById('connect-address-nt'),
+let addressNT = document.getElementById('connect-address-nt'),
+addressVC = document.getElementById('connect-address-vc'),
   connect = document.getElementById('connect'),
   buttonConnect = document.getElementById('connect-button');
 
@@ -45,20 +46,35 @@ function onRobotConnection(connected) {
 function setLogin() {
   // Add Enter key handler
   // Enable the input and the button
-  address.disabled = connect.disabled = false;
+  addressNT.disabled = connect.disabled = false;
   connect.textContent = 'Connect';
   // Add the default address and select xxxx
-  address.value = 'roborio-xxxx.local';
-  address.focus();
-  address.setSelectionRange(8, 12);
+  addressNT.value = 'roborio-xxxx.local';
+  addressNT.focus();
+  addressNT.setSelectionRange(8, 12);
+
+  addressVC.disabled = connect.disabled = false;
+  connect.textContent = 'Connect';
+  // Add the default address and select xxxx
+  addressVC.value = 'pi-xxxx.local';
+  addressVC.focus();
+  addressVC.setSelectionRange(8, 12);
 }
 // On click try to connect and disable the input and the button
 connect.onclick = () => {
-  ipc.send('connect', address.value);
-  address.disabled = connect.disabled = true;
+  ipc.send('connect', addressNT.value);
+  addressNT.disabled = connect.disabled = true;
+  addressVC.disabled = connect.disabled = true;
   connect.textContent = 'Connecting...';
 };
-address.onkeydown = ev => {
+addressNT.onkeydown = ev => {
+  if (ev.key === 'Enter') {
+    connect.click();
+    ev.preventDefault();
+    ev.stopPropagation();
+  }
+};
+addressVC.onkeydown = ev => {
   if (ev.key === 'Enter') {
     connect.click();
     ev.preventDefault();
