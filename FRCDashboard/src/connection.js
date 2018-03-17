@@ -1,9 +1,12 @@
 let addressNT = document.getElementById('connect-address-nt'),
-addressVC = document.getElementById('connect-address-vc'),
+  addressVC = document.getElementById('connect-address-vc'),
   connect = document.getElementById('connect'),
   buttonConnect = document.getElementById('connect-button');
-
+let VCClientClass = require("victoryconnect-client").Client;
+let VCUtil = require("victoryconnect-client").Util;
+let VCConst = require("victoryconnect-client").Consts;
 let loginShown = true;
+let VCClient = null;
 
 // Set function to be called on NetworkTables connect. Not implemented.
 //NetworkTables.addWsConnectionListener(onNetworkTablesConnection, true);
@@ -66,6 +69,7 @@ connect.onclick = () => {
   addressNT.disabled = connect.disabled = true;
   addressVC.disabled = connect.disabled = true;
   connect.textContent = 'Connecting...';
+  VCClient = new VCClientClass("VictoryDashLite", addressVC.value, 5800);
 };
 addressNT.onkeydown = ev => {
   if (ev.key === 'Enter') {

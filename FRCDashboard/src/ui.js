@@ -1,6 +1,5 @@
-const VCClientClass = require("victoryconnect-client").Client;
-const VCUtil = require("victoryconnect-client").Util;
-const VCConst = require("victoryconnect-client").Consts;
+
+
 // Define UI elements
 let ui = {
     timer: document.getElementById('timer'),
