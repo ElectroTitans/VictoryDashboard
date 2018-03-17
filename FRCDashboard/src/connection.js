@@ -1,12 +1,12 @@
-let addressNT = document.getElementById('connect-address-nt'),
-  addressVC = document.getElementById('connect-address-vc'),
+let 
+  address = document.getElementById('connect-address'),
   connect = document.getElementById('connect'),
   buttonConnect = document.getElementById('connect-button');
 let VCClientClass = require("victoryconnect-client").Client;
 let VCUtil = require("victoryconnect-client").Util;
 let VCConst = require("victoryconnect-client").Consts;
 let loginShown = true;
-let VCClient = null;
+let VCClient = new VCClientClass();
 
 // Set function to be called on NetworkTables connect. Not implemented.
 //NetworkTables.addWsConnectionListener(onNetworkTablesConnection, true);
@@ -42,43 +42,34 @@ function onRobotConnection(connected) {
     // On connect hide the connect popup
     document.body.classList.toggle('login', false);
     loginShown = false;
+
+    VCClient.Subscribe("motors");
+
   } else if (loginShown) {
     setLogin();
   }
 }
 function setLogin() {
-  // Add Enter key handler
-  // Enable the input and the button
-  addressNT.disabled = connect.disabled = false;
-  connect.textContent = 'Connect';
-  // Add the default address and select xxxx
-  addressNT.value = 'roborio-xxxx.local';
-  addressNT.focus();
-  addressNT.setSelectionRange(8, 12);
 
-  addressVC.disabled = connect.disabled = false;
+  address.disabled = connect.disabled = false;
   connect.textContent = 'Connect';
   // Add the default address and select xxxx
-  addressVC.value = 'pi-xxxx.local';
-  addressVC.focus();
-  addressVC.setSelectionRange(8, 12);
+  address.value = 'pi-xxxx.local';
+  address.focus();
+  address.setSelectionRange(8, 12);
 }
+var self = this;
 // On click try to connect and disable the input and the button
 connect.onclick = () => {
-  ipc.send('connect', addressNT.value);
-  addressNT.disabled = connect.disabled = true;
-  addressVC.disabled = connect.disabled = true;
+  
+
+  address.disabled = connect.disabled = true;
   connect.textContent = 'Connecting...';
-  VCClient = new VCClientClass("VictoryDashLite", addressVC.value, 5800);
+  VCClient = new VCClientClass("VictoryDashLite");
+  VCClient.ConnectNew( address.value, 5800);
+  VCClient.on("connnected",()=>{ self.onRobotConnection(true)})
 };
-addressNT.onkeydown = ev => {
-  if (ev.key === 'Enter') {
-    connect.click();
-    ev.preventDefault();
-    ev.stopPropagation();
-  }
-};
-addressVC.onkeydown = ev => {
+address.onkeydown = ev => {
   if (ev.key === 'Enter') {
     connect.click();
     ev.preventDefault();
